@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A2E,100:000000&height=220&section=header&text=YASHWANTH%20R&fontSize=52&fontColor=00FF41&fontAlignY=38&desc=Electrical%20and%20Electronics%20Engineer&descAlignY=58&descColor=00BFFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4a0080,100:1a0533&height=220&section=header&text=YASHWANTH%20R&fontSize=52&fontColor=FFD700&fontAlignY=38&desc=Electrical%20and%20Electronics%20Engineer&descAlignY=58&descColor=E0AAFF" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=_+Electrical+and+Electronics+Engineering+_;_+Student+at+VVCE+Mysore+_;_+IoT+%7C+Embedded+Systems+%7C+Automation+_;_+Building+Smart+Solutions+with+Hardware+_;_+Turning+Circuits+into+Intelligence+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Electrical+and+Electronics+Engineering;Student+at+VVCE+Mysore;IoT+%7C+Embedded+Systems+%7C+Automation;Building+Smart+Solutions+with+Hardware;Turning+Circuits+into+Intelligence" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/yashwanth-r-7855a7395">
-<img src="https://img.shields.io/badge/LinkedIn-Yashwanth%20R-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Yashwanth%20R-4a0080?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=yashwanthR1207&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DEGREE-B.E.%20EEE-00BFFF?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yashwanthR1207&style=for-the-badge&color=4a0080&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=for-the-badge&logoColor=4a0080" />
+<img src="https://img.shields.io/badge/DEGREE-B.E.%20EEE-4a0080?style=for-the-badge&logoColor=FFD700" />
 
 </div>
 
@@ -22,12 +22,12 @@
 ## SYSTEM IDENTITY
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║           [ ENGINEER PROFILE :: BOOT SEQUENCE ]           ║
+║           [ ENGINEER PROFILE :: ROYAL EDITION ]           ║
 ╠═══════════════════════════════════════════════════════════╣
 ║  NAME         >>  Yashwanth R                             ║
 ║  DEGREE       >>  B.E. Electrical and Electronics Engg.   ║
 ║  INSTITUTION  >>  VVCE Mysore, Karnataka, India           ║
-║  STATUS       >>  [ ONLINE ] -- Learning. Building.       ║
+║  STATUS       >>  [ ACTIVE ] -- Learning. Building.       ║
 ║  INTERESTS    >>  IoT · Embedded Systems · Power Systems  ║
 ║  DOMAIN       >>  Hardware + Firmware + Automation        ║
 ║  MISSION      >>  Bridge hardware and software with code  ║
@@ -38,9 +38,9 @@
 
 ## ABOUT ME
 ```
-> INITIALIZING PROFILE...
-> LOADING DATA...
-> ACCESS GRANTED.
+>> INITIALIZING ROYAL ENGINEER PROFILE...
+>> LOADING DATA...
+>> ACCESS GRANTED.
 ```
 
 > *"Engineering is not just about solving problems — it is about building a better world."*
@@ -64,34 +64,34 @@ CURRENT FOCUS :
 
 ### Programming Languages
 
-<img src="https://img.shields.io/badge/C-00FF41?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Embedded%20C-00BFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/C%2B%2B-4a0080?style=for-the-badge&logo=cplusplus&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/Embedded%20C-4a0080?style=for-the-badge&logoColor=FFD700" />
 
 ### Hardware and IoT
 
-<img src="https://img.shields.io/badge/Arduino-00FF41?style=for-the-badge&logo=arduino&logoColor=black" />
-<img src="https://img.shields.io/badge/ESP8266-00BFFF?style=for-the-badge&logo=arduino&logoColor=black" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-00FF41?style=for-the-badge&logo=raspberrypi&logoColor=black" />
-<img src="https://img.shields.io/badge/Blynk%20IoT-00BFFF?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/NodeMCU-00FF41?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Arduino-FFD700?style=for-the-badge&logo=arduino&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/ESP8266-4a0080?style=for-the-badge&logo=arduino&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-FFD700?style=for-the-badge&logo=raspberrypi&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/Blynk%20IoT-4a0080?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/NodeMCU-FFD700?style=for-the-badge&logoColor=1a0533" />
 
 ### EEE Domain
 
-<img src="https://img.shields.io/badge/Circuit%20Design-00BFFF?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Power%20Electronics-00FF41?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/PLC%20Programming-00BFFF?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/MATLAB-00FF41?style=for-the-badge&logo=mathworks&logoColor=black" />
-<img src="https://img.shields.io/badge/AutoCAD%20Electrical-00BFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Circuit%20Design-4a0080?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Power%20Electronics-FFD700?style=for-the-badge&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/PLC%20Programming-4a0080?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/MATLAB-FFD700?style=for-the-badge&logo=mathworks&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/AutoCAD%20Electrical-4a0080?style=for-the-badge&logoColor=FFD700" />
 
 ### Tools and Platforms
 
-<img src="https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/VS%20Code-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-<img src="https://img.shields.io/badge/Arduino%20IDE-00BFFF?style=for-the-badge&logo=arduino&logoColor=black" />
-<img src="https://img.shields.io/badge/Proteus-00FF41?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/GitHub-4a0080?style=for-the-badge&logo=github&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=1a0533" />
+<img src="https://img.shields.io/badge/Arduino%20IDE-4a0080?style=for-the-badge&logo=arduino&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Proteus-FFD700?style=for-the-badge&logoColor=1a0533" />
 
 </div>
 
@@ -101,12 +101,12 @@ CURRENT FOCUS :
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00BFFF&text_color=00FF41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthR1207&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00BFFF&fire=00FF41&currStreakLabel=00FF41&sideLabels=00BFFF&dates=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&hide_border=true&bg_color=1a0533&title_color=FFD700&icon_color=E0AAFF&text_color=FFD700" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthR1207&hide_border=true&background=1a0533&stroke=FFD700&ring=4a0080&fire=FFD700&currStreakLabel=FFD700&sideLabels=E0AAFF&dates=E0AAFF" />
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00BFFF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&hide_border=true&bg_color=1a0533&title_color=FFD700&text_color=E0AAFF" />
 
 </div>
 
@@ -114,8 +114,8 @@ CURRENT FOCUS :
 
 ## PROJECTS
 ```
-> LOADING PROJECT DATABASE...
-> 4 RECORDS FOUND.
+>> LOADING PROJECT DATABASE...
+>> 4 RECORDS FOUND.
 ```
 
 <div align="center">
@@ -136,7 +136,7 @@ CURRENT FOCUS :
 <div align="center">
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                  [ ACTIVE BUILD QUEUE ]                      ║
+║              [ ACTIVE BUILD QUEUE -- ROYAL LAB ]             ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  Smart Energy Monitoring System                              ║
@@ -162,20 +162,20 @@ CURRENT FOCUS :
 
 <div align="center">
 ```
-> ESTABLISHING CONNECTION...
-> CHANNEL OPEN.
+>> ESTABLISHING ROYAL CONNECTION...
+>> CHANNEL OPEN.
 ```
 
 <br>
 
 <a href="https://www.linkedin.com/in/yashwanth-r-7855a7395">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-Yashwanth%20R-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-Yashwanth%20R-4a0080?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
 
 <br><br>
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    [ TRANSMISSION INFO ]                     ║
+║                 [ TRANSMISSION INFO ]                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  OPEN TO   >>  Internships, Collaborations, Tech Talks       ║
 ║  DOMAIN    >>  Electrical, Electronics, IoT, Embedded        ║
@@ -186,12 +186,12 @@ CURRENT FOCUS :
 
 <br>
 ```
-> IF YOU FOUND MY WORK USEFUL -- DROP A STAR
-> TRANSMISSION END.
+>> IF YOU FOUND MY WORK USEFUL -- DROP A STAR
+>> TRANSMISSION END.
 ```
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A2E,100:000000&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4a0080,100:1a0533&height=130&section=footer" />
 
 </div>
