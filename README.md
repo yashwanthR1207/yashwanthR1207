@@ -112,7 +112,8 @@ My mission is simple — bridge the gap between hardware and software through di
 |:---:|:---|:---|:---:|
 | 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
 | 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
-| 03 | **INDUSTRY ** | Real-time Industry problem sloving using embedded system   
+| 03 | **Indusrtys  ** | Real-time Industry problem sloving using embedded system   
+| 04 |  ROBOsoccer  | robotics  
 
 ---
 
