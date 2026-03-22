@@ -34,7 +34,7 @@ MISSION     : Merging hardware and firmware to solve real-world problems
 
 ## ABOUT ME
 
-> *"The scientist discovers a new type of material or energy and the engineer discovers a new use for it."*
+> *"TURNING IDEAS INTO ENERGY "*
 
 I am a **B.E. Electrical and Electronics Engineering** student at **VVCE Mysore** who lives at the intersection of hardware design, embedded firmware, and IoT automation.
 
