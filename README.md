@@ -35,14 +35,14 @@ LOCATION    : Mysore, Karnataka, India
 INSTITUTION : Vidyavardhaka College of Engineering, Mysore
 STATUS      : [ ONLINE ] — Building the future, one circuit at a time
 INTERESTS   : IoT · Embedded Systems · Power Electronics · Automation
-MISSION     : Merging hardware and firmware to solve real-world problems,ROBOTICS
+MISSION     : Merging hardware and firmware to solve real-world problems, ROBOTICS
 ```
 
 ---
 
 ## ABOUT ME
 
-> *"TURNING IDEAS INTO ENERGY "*
+> *"TURNING IDEAS INTO ENERGY"*
 
 I am a **B.E. Electrical and Electronics Engineering** student at **VVCE Mysore** who lives at the intersection of hardware design, embedded firmware, and IoT automation.
 
@@ -62,9 +62,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&hide_border=false&border_color=0047AB&bg_color=ffffff&title_color=0047AB&icon_color=FF6600&text_color=1a1a1a" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=0047AB&bg_color=ffffff&title_color=0047AB&icon_color=FF6600&text_color=1a1a1a" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthR1207&hide_border=false&border=00FFFF&background=0d0d0d&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakLabel=ffffff&sideLabels=00FFFF&dates=ffffff" />
@@ -84,25 +84,70 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=ffffff&color=0047AB&line=FF6600&point=0047AB&area=true&hide_border=false&border_color=0047AB" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" />
+</picture>
+
+</div>
+
+---
+
+## SNAKE — EATING MY CONTRIBUTIONS 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+</picture>
+
+</div>
+
+---
+
 ## TECHNOLOGY STACK
+
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00FFFF?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-FF6600?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logoColor=black)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logo=c&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)
+
+**Hardware & Microcontrollers**
+
 ![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-00FFFF?style=flat-square&logo=arduino&logoColor=black)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-FF6600?style=flat-square&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-00FFFF?style=flat-square&logo=espressif&logoColor=black)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-FF6600?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white)
-![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logoColor=black)
-![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logoColor=white)
-![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logoColor=white)
-![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logoColor=white)
+
+**IoT & Automation**
+
+![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logo=blynk&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=mqtt&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white)
+
+**Design & Electronics**
+
+![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logo=circuitverse&logoColor=white)
+![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white)
+![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black)
+
+**Tools & Dev**
+
 ![Git](https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black)
-
+![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
@@ -112,8 +157,8 @@ My mission is simple — bridge the gap between hardware and software through di
 |:---:|:---|:---|:---:|
 | 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
 | 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
-| 03 | **Indusrtys  ** | Real-time Industry problem sloving using embedded system   
-| 04 |  ROBOsoccer  | robotics  
+| 03 | **Industry Solver** | Real-time industry problem solving using embedded systems | Arduino, C++ |
+| 04 | **ROBOsoccer** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky |
 
 ---
 
@@ -134,7 +179,7 @@ GitHub Portfolio Cleanup
 ![Internships](https://img.shields.io/badge/Open%20To-Internships-00FFFF?style=flat-square&logoColor=black)
 ![Collaborations](https://img.shields.io/badge/Open%20To-Collaborations-FF6600?style=flat-square&logoColor=white)
 ![Tech Talks](https://img.shields.io/badge/Open%20To-Tech%20Talks-8A2BE2?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Mysore%2C%20Karnataka-0047AB?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Mysore%2C%20Karnataka-0047AB?style=flat-square&logo=googlemaps&logoColor=white)
 
 ---
 
