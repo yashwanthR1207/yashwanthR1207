@@ -35,14 +35,14 @@ LOCATION    : Mysore, Karnataka, India
 INSTITUTION : Vidyavardhaka College of Engineering, Mysore
 STATUS      : [ ONLINE ] — Building the future, one circuit at a time
 INTERESTS   : IoT · Embedded Systems · Power Electronics · Automation
-MISSION     : Merging hardware and firmware to solve real-world problems
+MISSION     : Merging hardware and firmware to solve real-world problems,ROBOTICS
 ```
 
 ---
 
 ## ABOUT ME
 
-> *"The scientist discovers a new type of material or energy and the engineer discovers a new use for it."*
+> *"TURNING IDEAS INTO ENERGY "*
 
 I am a **B.E. Electrical and Electronics Engineering** student at **VVCE Mysore** who lives at the intersection of hardware design, embedded firmware, and IoT automation.
 
@@ -88,7 +88,6 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ![C](https://img.shields.io/badge/C-00FFFF?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-FF6600?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=flat-square&logo=arduino&logoColor=white)
@@ -98,14 +97,12 @@ My mission is simple — bridge the gap between hardware and software through di
 ![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logoColor=black)
 ![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logoColor=white)
 ![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logoColor=white)
-![PLC Programming](https://img.shields.io/badge/PLC%20Programming-00FFFF?style=flat-square&logoColor=black)
 ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-8A2BE2?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black)
-![Proteus Design](https://img.shields.io/badge/Proteus%20Design-FF6600?style=flat-square&logoColor=white)
+
 
 ---
 
@@ -115,17 +112,18 @@ My mission is simple — bridge the gap between hardware and software through di
 |:---:|:---|:---|:---:|
 | 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
 | 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
-| 03 | **Smart Street Lighting** | Auto street light control using ambient light and motion sensors | Arduino, LDR, IR |
-| 04 | **Energy Meter Monitor** | Real-time digital energy consumption display and tracking system | NodeMCU, LCD, IoT |
+| 03 | **INDUSTRY ** | Real-time Industry problem sloving using embedded system   
 
 ---
 
 ## CURRENTLY WORKING ON
 ```
-Smart Energy Monitoring System    >>>>>>>>>>>>>>>>>>>>   70%
-IoT-Based Load Controller         >>>>>>>>>>>>>>>>        60%
-MATLAB Power System Simulation    >>>>>>>>>>>>>           50%
-GitHub Portfolio Cleanup          >>>>>>>>>>>>>>>>>>>>>   75%
+Smart Energy Monitoring System    
+IoT-Based Load Controller         
+MATLAB Power System Simulation
+Robotics
+ROBO COMPETITIONS     
+GitHub Portfolio Cleanup         
 ```
 
 ---
