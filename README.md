@@ -8,211 +8,6 @@
 
 <br>
 
-<svg width="860" height="110" viewBox="0 0 860 110" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .wire-path{stroke:#1a3a3a;stroke-width:2;fill:none}
-      .comp-box{fill:#0a0a0a;stroke-width:1.5}
-      .label{font-family:'Courier New',monospace;font-size:7px;font-weight:700;text-anchor:middle;dominant-baseline:middle}
-      .node-dot{fill:#00ffff}
-      .flow1{stroke:#00ffff;stroke-width:2;fill:none;stroke-dasharray:8 18;animation:dash1 1.4s linear infinite}
-      .flow2{stroke:#00ffff;stroke-width:2;fill:none;stroke-dasharray:8 18;animation:dash2 1.6s linear infinite}
-      .flow3{stroke:#00ffff;stroke-width:2;fill:none;stroke-dasharray:8 18;animation:dash3 1.8s linear infinite}
-      .flow4{stroke:#ff6600;stroke-width:2;fill:none;stroke-dasharray:8 18;animation:dash4 1.5s linear infinite}
-      .flow5{stroke:#8a2be2;stroke-width:2;fill:none;stroke-dasharray:8 18;animation:dash5 1.3s linear infinite}
-      @keyframes dash1{to{stroke-dashoffset:-26}}
-      @keyframes dash2{to{stroke-dashoffset:-26}}
-      @keyframes dash3{to{stroke-dashoffset:-26}}
-      @keyframes dash4{to{stroke-dashoffset:-26}}
-      @keyframes dash5{to{stroke-dashoffset:-26}}
-      .led-body{fill:#001505;stroke:#00ff88;stroke-width:1.5;animation:ledblink 1.4s ease-in-out infinite}
-      @keyframes ledblink{0%,100%{fill:#003010;filter:drop-shadow(0 0 4px #00ff88)}50%{fill:#001005;filter:none}}
-      .pdot{fill:#ff6600;animation:pdot 1s ease-in-out infinite;transform-origin:826px 55px}
-      @keyframes pdot{0%,100%{r:5;opacity:1}50%{r:9;opacity:0.3}}
-      .vcc{fill:#00ffff;animation:vccblink 2s ease-in-out infinite}
-      @keyframes vccblink{0%,100%{opacity:1}50%{opacity:0.3}}
-      .coil{stroke:#8a2be2;stroke-width:2;fill:none;animation:coilpulse 2s ease-in-out infinite}
-      @keyframes coilpulse{0%,100%{opacity:1}50%{opacity:0.4}}
-      .cap-plate{stroke:#8a2be2;stroke-width:3;animation:cappulse 1.8s ease-in-out infinite}
-      @keyframes cappulse{0%,100%{opacity:1;filter:drop-shadow(0 0 3px #8a2be2)}50%{opacity:0.5;filter:none}}
-      .osc-trace{stroke:#00ffff;stroke-width:1.5;fill:none;stroke-dasharray:200;animation:osctrace 3s linear infinite;filter:drop-shadow(0 0 2px #00ffff)}
-      @keyframes osctrace{0%{stroke-dashoffset:200}100%{stroke-dashoffset:0}}
-      .osc-trace2{stroke:rgba(255,102,0,0.6);stroke-width:1;fill:none;stroke-dasharray:200;animation:osctrace2 4s linear infinite}
-      @keyframes osctrace2{0%{stroke-dashoffset:200}100%{stroke-dashoffset:0}}
-      .corner{stroke:#00ffff;stroke-width:1.5;fill:none;opacity:0.5;animation:cornerblink 3s ease-in-out infinite}
-      @keyframes cornerblink{0%,100%{opacity:0.5}50%{opacity:0.15}}
-      .scanline{fill:url(#scangrad);animation:scanmove 5s linear infinite}
-      @keyframes scanmove{0%{transform:translateX(-200px)}100%{transform:translateX(1100px)}}
-    </style>
-    <linearGradient id="scangrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="rgba(0,255,255,0)"/>
-      <stop offset="50%" stop-color="rgba(0,255,255,0.04)"/>
-      <stop offset="100%" stop-color="rgba(0,255,255,0)"/>
-    </linearGradient>
-    <pattern id="pcbgrid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M20 0L0 0L0 20" stroke="rgba(0,255,255,0.04)" stroke-width="0.5" fill="none"/>
-    </pattern>
-  </defs>
-  <rect width="860" height="110" fill="#0a0a0a" rx="10"/>
-  <rect width="860" height="110" fill="url(#pcbgrid)" rx="10"/>
-  <rect class="scanline" x="0" y="0" width="160" height="110"/>
-  <path class="corner" d="M14,8 L8,8 L8,22"/>
-  <path class="corner" d="M846,8 L852,8 L852,22"/>
-  <path class="corner" d="M14,102 L8,102 L8,88"/>
-  <path class="corner" d="M846,102 L852,102 L852,88"/>
-  <line x1="0" y1="27" x2="860" y2="27" stroke="rgba(0,255,255,0.06)" stroke-width="0.5"/>
-  <line x1="0" y1="83" x2="860" y2="83" stroke="rgba(0,255,255,0.06)" stroke-width="0.5"/>
-  <line x1="30" y1="28" x2="830" y2="28" stroke="rgba(0,255,255,0.12)" stroke-width="1" stroke-dasharray="4 8"/>
-  <text x="18" y="28" class="label vcc" font-size="6">VCC</text>
-  <line x1="30" y1="82" x2="830" y2="82" stroke="rgba(255,102,0,0.12)" stroke-width="1" stroke-dasharray="4 8"/>
-  <text x="18" y="82" class="label" fill="#ff6600" font-size="6">GND</text>
-  <line x1="28" y1="55" x2="68" y2="55" class="wire-path"/>
-  <line x1="28" y1="55" x2="68" y2="55" class="flow1"/>
-  <rect x="68" y="46" width="44" height="18" class="comp-box" rx="3" stroke="#ff6600"/>
-  <line x1="77" y1="47" x2="77" y2="63" stroke="#ff0000" stroke-width="3"/>
-  <line x1="84" y1="47" x2="84" y2="63" stroke="#ff6600" stroke-width="3"/>
-  <line x1="91" y1="47" x2="91" y2="63" stroke="#8a2be2" stroke-width="3"/>
-  <line x1="98" y1="47" x2="98" y2="63" stroke="#ffd700" stroke-width="3"/>
-  <text x="90" y="71" class="label" fill="#ff6600" font-size="6">4.7kΩ</text>
-  <line x1="90" y1="46" x2="90" y2="28" stroke="rgba(0,255,255,0.2)" stroke-width="1" stroke-dasharray="2 3"/>
-  <line x1="112" y1="55" x2="145" y2="55" class="wire-path"/>
-  <line x1="112" y1="55" x2="145" y2="55" class="flow1"/>
-  <circle cx="145" cy="55" r="4" class="node-dot"/>
-  <line x1="145" y1="55" x2="165" y2="55" class="wire-path"/>
-  <line x1="145" y1="55" x2="165" y2="55" class="flow2"/>
-  <line x1="165" y1="40" x2="165" y2="70" class="cap-plate"/>
-  <line x1="173" y1="40" x2="173" y2="70" class="cap-plate"/>
-  <line x1="173" y1="55" x2="193" y2="55" class="wire-path"/>
-  <line x1="173" y1="55" x2="193" y2="55" class="flow2"/>
-  <line x1="169" y1="70" x2="169" y2="82" stroke="rgba(255,102,0,0.25)" stroke-width="1" stroke-dasharray="2 3"/>
-  <text x="169" y="38" class="label" fill="#8a2be2" font-size="6">100μF</text>
-  <circle cx="193" cy="55" r="4" class="node-dot"/>
-  <line x1="193" y1="55" x2="210" y2="55" class="wire-path"/>
-  <line x1="193" y1="55" x2="210" y2="55" class="flow3"/>
-  <rect x="210" y="38" width="70" height="34" class="comp-box" rx="3" stroke="#00ffff" stroke-width="1.5"/>
-  <line x1="205" y1="45" x2="210" y2="45" stroke="#00ffff" stroke-width="2"/>
-  <line x1="205" y1="52" x2="210" y2="52" stroke="#00ffff" stroke-width="2"/>
-  <line x1="205" y1="59" x2="210" y2="59" stroke="#00ffff" stroke-width="2"/>
-  <line x1="205" y1="66" x2="210" y2="66" stroke="#00ffff" stroke-width="2"/>
-  <line x1="280" y1="45" x2="285" y2="45" stroke="#00ffff" stroke-width="2"/>
-  <line x1="280" y1="52" x2="285" y2="52" stroke="#00ffff" stroke-width="2"/>
-  <line x1="280" y1="59" x2="285" y2="59" stroke="#00ffff" stroke-width="2"/>
-  <line x1="280" y1="66" x2="285" y2="66" stroke="#00ffff" stroke-width="2"/>
-  <text x="245" y="52" class="label" fill="#00ffff" font-size="8" font-weight="700">ESP</text>
-  <text x="245" y="63" class="label" fill="#00ffff" font-size="8" font-weight="700">8266</text>
-  <path d="M237,44 Q245,39 253,44" stroke="#00ffff" stroke-width="1" fill="none" opacity="0.5"/>
-  <path d="M234,41 Q245,35 256,41" stroke="#00ffff" stroke-width="0.8" fill="none" opacity="0.3"/>
-  <line x1="245" y1="38" x2="245" y2="28" stroke="rgba(0,255,255,0.2)" stroke-width="1" stroke-dasharray="2 3"/>
-  <line x1="245" y1="72" x2="245" y2="82" stroke="rgba(255,102,0,0.2)" stroke-width="1" stroke-dasharray="2 3"/>
-  <line x1="285" y1="55" x2="318" y2="55" class="wire-path"/>
-  <line x1="285" y1="55" x2="318" y2="55" class="flow3"/>
-  <circle cx="318" cy="55" r="4" class="node-dot"/>
-  <line x1="318" y1="55" x2="335" y2="55" class="wire-path"/>
-  <line x1="318" y1="55" x2="335" y2="55" class="flow4"/>
-  <ellipse cx="344" cy="55" rx="9" ry="10" class="led-body"/>
-  <line x1="353" y1="46" x2="353" y2="64" stroke="#00ff88" stroke-width="1.5"/>
-  <line x1="357" y1="49" x2="363" y2="44" stroke="#00ff88" stroke-width="1" opacity="0.6"/>
-  <line x1="358" y1="55" x2="365" y2="55" stroke="#00ff88" stroke-width="1" opacity="0.6"/>
-  <line x1="357" y1="61" x2="363" y2="66" stroke="#00ff88" stroke-width="1" opacity="0.6"/>
-  <text x="344" y="71" class="label" fill="#00ff88" font-size="6">LED</text>
-  <line x1="353" y1="55" x2="373" y2="55" class="wire-path"/>
-  <line x1="353" y1="55" x2="373" y2="55" class="flow4"/>
-  <line x1="344" y1="65" x2="344" y2="82" stroke="rgba(255,102,0,0.25)" stroke-width="1" stroke-dasharray="2 3"/>
-  <circle cx="373" cy="55" r="4" class="node-dot"/>
-  <line x1="373" y1="55" x2="386" y2="55" class="wire-path"/>
-  <line x1="373" y1="55" x2="386" y2="55" class="flow5"/>
-  <path d="M386,55 A6,6 0 0,1 398,55" class="coil"/>
-  <path d="M398,55 A6,6 0 0,1 410,55" class="coil"/>
-  <path d="M410,55 A6,6 0 0,1 422,55" class="coil"/>
-  <path d="M422,55 A6,6 0 0,1 434,55" class="coil"/>
-  <text x="410" y="71" class="label" fill="#8a2be2" font-size="6">10mH</text>
-  <line x1="434" y1="55" x2="454" y2="55" class="wire-path"/>
-  <line x1="434" y1="55" x2="454" y2="55" class="flow5"/>
-  <circle cx="454" cy="55" r="4" class="node-dot"/>
-  <line x1="454" y1="55" x2="468" y2="55" class="wire-path"/>
-  <line x1="454" y1="55" x2="468" y2="55" class="flow1"/>
-  <rect x="468" y="36" width="80" height="38" class="comp-box" rx="3" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="463" y1="44" x2="468" y2="44" stroke="#ff6600" stroke-width="2"/>
-  <line x1="463" y1="51" x2="468" y2="51" stroke="#ff6600" stroke-width="2"/>
-  <line x1="463" y1="58" x2="468" y2="58" stroke="#ff6600" stroke-width="2"/>
-  <line x1="463" y1="65" x2="468" y2="65" stroke="#ff6600" stroke-width="2"/>
-  <line x1="548" y1="44" x2="553" y2="44" stroke="#ff6600" stroke-width="2"/>
-  <line x1="548" y1="51" x2="553" y2="51" stroke="#ff6600" stroke-width="2"/>
-  <line x1="548" y1="58" x2="553" y2="58" stroke="#ff6600" stroke-width="2"/>
-  <line x1="548" y1="65" x2="553" y2="65" stroke="#ff6600" stroke-width="2"/>
-  <line x1="480" y1="36" x2="480" y2="31" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="490" y1="36" x2="490" y2="31" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="500" y1="36" x2="500" y2="31" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="510" y1="36" x2="510" y2="31" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="520" y1="36" x2="520" y2="31" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="530" y1="36" x2="530" y2="31" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="480" y1="74" x2="480" y2="79" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="490" y1="74" x2="490" y2="79" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="500" y1="74" x2="500" y2="79" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="510" y1="74" x2="510" y2="79" stroke="#ff6600" stroke-width="1.5"/>
-  <text x="508" y="51" class="label" fill="#ff6600" font-size="7.5" font-weight="700">ARDUINO</text>
-  <text x="508" y="62" class="label" fill="#ff6600" font-size="7.5" font-weight="700">UNO</text>
-  <line x1="508" y1="36" x2="508" y2="28" stroke="rgba(0,255,255,0.2)" stroke-width="1" stroke-dasharray="2 3"/>
-  <line x1="508" y1="74" x2="508" y2="82" stroke="rgba(255,102,0,0.2)" stroke-width="1" stroke-dasharray="2 3"/>
-  <line x1="553" y1="55" x2="583" y2="55" class="wire-path"/>
-  <line x1="553" y1="55" x2="583" y2="55" class="flow2"/>
-  <circle cx="583" cy="55" r="4" class="node-dot"/>
-  <line x1="583" y1="55" x2="597" y2="55" class="wire-path"/>
-  <line x1="583" y1="55" x2="597" y2="55" class="flow3"/>
-  <line x1="597" y1="43" x2="597" y2="67" stroke="#8a2be2" stroke-width="2"/>
-  <line x1="590" y1="55" x2="597" y2="55" stroke="#8a2be2" stroke-width="1.5"/>
-  <line x1="597" y1="46" x2="611" y2="46" stroke="#8a2be2" stroke-width="1.5"/>
-  <line x1="611" y1="46" x2="611" y2="55" stroke="#8a2be2" stroke-width="1.5"/>
-  <line x1="597" y1="64" x2="611" y2="64" stroke="#8a2be2" stroke-width="1.5"/>
-  <line x1="611" y1="64" x2="611" y2="55" stroke="#8a2be2" stroke-width="1.5"/>
-  <polygon points="607,53 611,55 607,57" fill="#8a2be2"/>
-  <text x="601" y="76" class="label" fill="#8a2be2" font-size="6">MOSFET</text>
-  <line x1="611" y1="55" x2="635" y2="55" class="wire-path"/>
-  <line x1="611" y1="55" x2="635" y2="55" class="flow3"/>
-  <circle cx="635" cy="55" r="4" class="node-dot"/>
-  <line x1="635" y1="55" x2="648" y2="55" class="wire-path"/>
-  <line x1="635" y1="55" x2="648" y2="55" class="flow4"/>
-  <rect x="648" y="38" width="72" height="34" class="comp-box" rx="3" stroke="#00ffff" stroke-width="1.5"/>
-  <rect x="652" y="42" width="64" height="26" fill="#001a1a" rx="2"/>
-  <line x1="668" y1="42" x2="668" y2="68" stroke="rgba(0,255,255,0.1)" stroke-width="0.5"/>
-  <line x1="684" y1="42" x2="684" y2="68" stroke="rgba(0,255,255,0.1)" stroke-width="0.5"/>
-  <line x1="700" y1="42" x2="700" y2="68" stroke="rgba(0,255,255,0.1)" stroke-width="0.5"/>
-  <line x1="652" y1="52" x2="716" y2="52" stroke="rgba(0,255,255,0.1)" stroke-width="0.5"/>
-  <line x1="652" y1="60" x2="716" y2="60" stroke="rgba(0,255,255,0.1)" stroke-width="0.5"/>
-  <polyline class="osc-trace" points="654,62 662,62 662,48 672,48 672,62 682,62 682,48 692,48 692,62 702,62 702,48 712,48 712,62 714,62"/>
-  <path class="osc-trace2" d="M654,56 Q659,46 664,56 Q669,66 674,56 Q679,46 684,56 Q689,66 694,56 Q699,46 704,56 Q709,66 714,56"/>
-  <text x="684" y="80" class="label" fill="#00ffff" font-size="5.5">OSC · 5V/div</text>
-  <line x1="643" y1="48" x2="648" y2="48" stroke="#00ffff" stroke-width="1.5"/>
-  <line x1="643" y1="62" x2="648" y2="62" stroke="#00ffff" stroke-width="1.5"/>
-  <line x1="720" y1="55" x2="750" y2="55" class="wire-path"/>
-  <line x1="720" y1="55" x2="750" y2="55" class="flow5"/>
-  <circle cx="750" cy="55" r="4" class="node-dot"/>
-  <line x1="750" y1="55" x2="762" y2="55" class="wire-path"/>
-  <line x1="750" y1="55" x2="762" y2="55" class="flow1"/>
-  <rect x="762" y="44" width="44" height="22" class="comp-box" rx="2" stroke="#ff6600" stroke-width="1.5"/>
-  <path d="M762,44 Q784,40 806,44" stroke="#ff6600" stroke-width="1" fill="none" opacity="0.5"/>
-  <line x1="770" y1="44" x2="770" y2="39" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="778" y1="44" x2="778" y2="39" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="786" y1="44" x2="786" y2="39" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="794" y1="44" x2="794" y2="39" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="770" y1="66" x2="770" y2="71" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="778" y1="66" x2="778" y2="71" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="786" y1="66" x2="786" y2="71" stroke="#ff6600" stroke-width="1.5"/>
-  <line x1="794" y1="66" x2="794" y2="71" stroke="#ff6600" stroke-width="1.5"/>
-  <text x="784" y="57" class="label" fill="#ff6600" font-size="7" font-weight="700">MCU</text>
-  <line x1="806" y1="55" x2="820" y2="55" class="wire-path"/>
-  <line x1="806" y1="55" x2="820" y2="55" class="flow2"/>
-  <circle cx="826" cy="55" r="5" class="pdot"/>
-  <text x="30" y="24" class="label vcc" font-size="6.5">+5V</text>
-  <text x="30" y="91" class="label" fill="#ff6600" font-size="6.5">GND</text>
-  <circle cx="845" cy="20" r="4" fill="#00ff88">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="836" y="34" class="label" fill="rgba(0,255,255,0.4)" font-size="5.5">LIVE</text>
-</svg>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=650&lines=Electrical+and+Electronics+Engineer;Student+at+VVCE+Mysore;IoT+%7C+Embedded+Systems+%7C+Automation;Turning+Circuits+into+Intelligence" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=650&lines=Electrical+and+Electronics+Engineer;Student+at+VVCE+Mysore;IoT+%7C+Embedded+Systems+%7C+Automation;Turning+Circuits+into+Intelligence" />
@@ -240,14 +35,14 @@ LOCATION    : Mysore, Karnataka, India
 INSTITUTION : Vidyavardhaka College of Engineering, Mysore
 STATUS      : [ ONLINE ] — Building the future, one circuit at a time
 INTERESTS   : IoT · Embedded Systems · Power Electronics · Automation
-MISSION     : Merging hardware and firmware to solve real-world problems, ROBOTICS
+MISSION     : Merging hardware and firmware to solve real-world problems,ROBOTICS
 ```
 
 ---
 
 ## ABOUT ME
 
-> *"TURNING IDEAS INTO ENERGY"*
+> *"TURNING IDEAS INTO ENERGY "*
 
 I am a **B.E. Electrical and Electronics Engineering** student at **VVCE Mysore** who lives at the intersection of hardware design, embedded firmware, and IoT automation.
 
@@ -308,6 +103,7 @@ My mission is simple — bridge the gap between hardware and software through di
 ![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black)
 
+
 ---
 
 ## FEATURED PROJECTS
@@ -316,7 +112,7 @@ My mission is simple — bridge the gap between hardware and software through di
 |:---:|:---|:---|:---:|
 | 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
 | 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
-| 03 | **INDUSTRY** | Real-time Industry problem solving using embedded system | Embedded C, Sensors |
+| 03 | **INDUSTRY ** | Real-time Industry problem sloving using embedded system   
 
 ---
 
