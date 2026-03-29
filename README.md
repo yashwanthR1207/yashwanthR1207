@@ -57,27 +57,9 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## GIT STATS
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=0047AB&bg_color=ffffff&title_color=0047AB&icon_color=FF6600&text_color=1a1a1a" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&hide_border=false&border_color=8A2BE2&bg_color=0d0d0d&title_color=8A2BE2&text_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&hide_border=false&border_color=8A2BE2&bg_color=ffffff&title_color=8A2BE2&text_color=1a1a1a" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&hide_border=false&border_color=8A2BE2&bg_color=0d0d0d&title_color=8A2BE2&text_color=ffffff" />
-</picture>
-
-</div>
-
----
-
-## 🔥 STREAK STATS
+##  STREAK STATS
 
 <div align="center">
 
