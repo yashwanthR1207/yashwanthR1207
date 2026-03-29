@@ -66,11 +66,6 @@ My mission is simple — bridge the gap between hardware and software through di
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=0047AB&bg_color=ffffff&title_color=0047AB&icon_color=FF6600&text_color=1a1a1a" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthR1207&hide_border=false&border=00FFFF&background=0d0d0d&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakLabel=ffffff&sideLabels=00FFFF&dates=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthR1207&hide_border=false&border=0047AB&background=ffffff&stroke=0047AB&ring=FF6600&fire=FF6600&currStreakLabel=1a1a1a&sideLabels=0047AB&dates=1a1a1a" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthR1207&hide_border=false&border=00FFFF&background=0d0d0d&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakLabel=ffffff&sideLabels=00FFFF&dates=ffffff" />
-</picture>
 
 <br><br>
 
@@ -81,8 +76,6 @@ My mission is simple — bridge the gap between hardware and software through di
 </picture>
 
 </div>
-
----
 
 ## CONTRIBUTION GRAPH
 
