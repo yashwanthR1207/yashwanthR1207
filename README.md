@@ -145,6 +145,7 @@ My mission is simple — bridge the gap between hardware and software through di
 | 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
 | 03 | **Industry Solver** | Real-time industry problem solving using embedded systems | Arduino, C++ |
 | 04 | **ROBOsoccer** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky |
+| 05 | **ROBOsoccer Version 2** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
 
 ---
 
