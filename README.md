@@ -67,8 +67,6 @@ My mission is simple — bridge the gap between hardware and software through di
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=00FFFF&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff" />
 </picture>
 
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&hide_border=false&border_color=8A2BE2&bg_color=0d0d0d&title_color=8A2BE2&text_color=ffffff" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&hide_border=false&border_color=8A2BE2&bg_color=ffffff&title_color=8A2BE2&text_color=1a1a1a" />
@@ -76,6 +74,22 @@ My mission is simple — bridge the gap between hardware and software through di
 </picture>
 
 </div>
+
+---
+
+## 🔥 STREAK STATS
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yashwanthR1207&theme=dark&hide_border=false&border=FF6600&background=0D0D0D&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakNum=00FFFF&sideNums=ffffff&currStreakLabel=FF6600&sideLabels=00FFFF&dates=888888&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yashwanthR1207&theme=default&hide_border=false&border=0047AB&background=F0F4FF&stroke=0047AB&ring=FF6600&fire=FF6600&currStreakNum=0047AB&sideNums=1a1a1a&currStreakLabel=FF6600&sideLabels=0047AB&dates=555555&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=yashwanthR1207&theme=dark&hide_border=false&border=FF6600&background=0D0D0D&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakNum=00FFFF&sideNums=ffffff&currStreakLabel=FF6600&sideLabels=00FFFF&dates=888888&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" alt="GitHub Streak Stats" />
+</picture>
+
+</div>
+
+---
 
 ## CONTRIBUTION GRAPH
 
