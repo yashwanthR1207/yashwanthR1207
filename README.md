@@ -1,122 +1,10 @@
 <div align="center">
 
-<svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" width="100%">
-  <defs>
-    <style>
-      @keyframes glitch-main {
-        0%, 90%, 100% { transform: translate(0,0); }
-        91% { transform: translate(-3px, 1px); }
-        93% { transform: translate(3px, -1px); }
-        95% { transform: translate(-2px, 0); }
-        97% { transform: translate(0, 2px); }
-      }
-      @keyframes glitch-cyan {
-        0%, 85%, 100% { opacity: 0; transform: translate(0,0); }
-        86% { opacity: 0.45; transform: translate(5px, 0); }
-        88% { opacity: 0.45; transform: translate(-5px, 0); }
-        90% { opacity: 0; }
-      }
-      @keyframes glitch-orange {
-        0%, 87%, 100% { opacity: 0; transform: translate(0,0); }
-        88% { opacity: 0.35; transform: translate(-4px, 2px); }
-        90% { opacity: 0.35; transform: translate(4px, -2px); }
-        92% { opacity: 0; }
-      }
-      @keyframes underline-grow {
-        0% { stroke-dashoffset: 500; }
-        100% { stroke-dashoffset: 0; }
-      }
-      @keyframes circuit-in {
-        0% { stroke-dashoffset: 200; opacity: 0; }
-        100% { stroke-dashoffset: 0; opacity: 0.5; }
-      }
-      @keyframes dot-blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0.1; }
-      }
-      @keyframes cursor-blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
-      }
-      .name-main {
-        font-family: 'Courier New', Courier, monospace;
-        font-weight: 900;
-        font-size: 74px;
-        letter-spacing: 12px;
-        fill: #ffffff;
-        animation: glitch-main 7s infinite;
-      }
-      .name-cyan {
-        font-family: 'Courier New', Courier, monospace;
-        font-weight: 900;
-        font-size: 74px;
-        letter-spacing: 12px;
-        fill: #00FFFF;
-        animation: glitch-cyan 7s infinite 0.04s;
-      }
-      .name-orange {
-        font-family: 'Courier New', Courier, monospace;
-        font-weight: 900;
-        font-size: 74px;
-        letter-spacing: 12px;
-        fill: #FF6600;
-        animation: glitch-orange 7s infinite 0.08s;
-      }
-      .circuit {
-        fill: none;
-        stroke: #00FFFF;
-        stroke-width: 1;
-        stroke-dasharray: 200;
-        animation: circuit-in 1.8s ease-out both;
-      }
-      .dot-blink { animation: dot-blink 1.5s infinite; }
-      .cursor { animation: cursor-blink 1s infinite; }
-      .underline {
-        stroke: #FF6600;
-        stroke-width: 2.5;
-        stroke-dasharray: 500;
-        stroke-dashoffset: 500;
-        fill: none;
-        animation: underline-grow 1.5s ease-out 0.6s forwards;
-      }
-    </style>
-  </defs>
-
-  <rect width="800" height="220" fill="#0D0D0D" rx="8"/>
-
-  <line x1="0" y1="110" x2="800" y2="110" stroke="#ffffff" stroke-width="0.3" opacity="0.06"/>
-  <line x1="400" y1="0" x2="400" y2="220" stroke="#ffffff" stroke-width="0.3" opacity="0.06"/>
-
-  <path class="circuit" d="M50 55 L50 95 L90 95" style="animation-delay:0.2s"/>
-  <path class="circuit" d="M50 165 L50 130 L90 130" style="animation-delay:0.4s"/>
-  <path class="circuit" d="M90 95 L90 130" stroke="#00FFFF" stroke-width="1" fill="none" stroke-dasharray="40" opacity="0.25" style="animation: circuit-in 1.8s ease-out 0.6s both"/>
-  <circle cx="90" cy="95" r="3" fill="#00FFFF" class="dot-blink" style="animation-delay:0.5s"/>
-  <circle cx="90" cy="130" r="3" fill="#FF6600" class="dot-blink" style="animation-delay:1.1s"/>
-
-  <path class="circuit" d="M750 55 L750 95 L710 95" style="animation-delay:0.3s"/>
-  <path class="circuit" d="M750 165 L750 130 L710 130" style="animation-delay:0.5s"/>
-  <path class="circuit" d="M710 95 L710 130" stroke="#00FFFF" stroke-width="1" fill="none" stroke-dasharray="40" opacity="0.25" style="animation: circuit-in 1.8s ease-out 0.7s both"/>
-  <circle cx="710" cy="95" r="3" fill="#00FFFF" class="dot-blink" style="animation-delay:0.8s"/>
-  <circle cx="710" cy="130" r="3" fill="#FF6600" class="dot-blink" style="animation-delay:1.4s"/>
-
-  <text x="108" y="135" font-family="Courier New, monospace" font-size="80" font-weight="200" fill="#FF6600" opacity="0.18">[</text>
-  <text x="654" y="135" font-family="Courier New, monospace" font-size="80" font-weight="200" fill="#FF6600" opacity="0.18">]</text>
-
-  <text x="400" y="133" class="name-cyan" text-anchor="middle">YASHWANTH R</text>
-  <text x="400" y="133" class="name-orange" text-anchor="middle">YASHWANTH R</text>
-  <text x="400" y="133" class="name-main" text-anchor="middle">YASHWANTH R</text>
-
-  <rect x="675" y="106" width="3.5" height="34" fill="#00FFFF" class="cursor"/>
-  <line x1="115" y1="149" x2="685" y2="149" class="underline"/>
-
-  <text x="400" y="50" font-family="Courier New, monospace" font-size="11" fill="#00FFFF" text-anchor="middle" letter-spacing="4" opacity="0.85">// EEE ENGINEER · IoT · ROBOTICS</text>
-  <text x="400" y="183" font-family="Courier New, monospace" font-size="11" fill="#8A2BE2" text-anchor="middle" letter-spacing="3" opacity="0.9">TURNING CIRCUITS INTO INTELLIGENCE</text>
-
-  <circle cx="118" cy="52" r="2" fill="#00FFFF" opacity="0.5"/>
-  <circle cx="682" cy="52" r="2" fill="#00FFFF" opacity="0.5"/>
-  <circle cx="118" cy="180" r="2" fill="#FF6600" opacity="0.5"/>
-  <circle cx="682" cy="180" r="2" fill="#FF6600" opacity="0.5"/>
-</svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=0047AB&background=F0F4FFff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" width="100%" alt="YASHWANTH R" />
+</picture>
 
 <br>
 
@@ -169,7 +57,9 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## STREAK STATS
+
+
+##  STREAK STATS
 
 <div align="center">
 
@@ -244,7 +134,7 @@ My mission is simple — bridge the gap between hardware and software through di
 | 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
 | 03 | **Industry Solver** | Real-time industry problem solving using embedded systems | Arduino, C++ |
 | 04 | **ROBOsoccer** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky |
-| 05 | **ROBOsoccer Version 2** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel control |
+| 05 | **ROBOsoccer Version 2** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
 
 ---
 
