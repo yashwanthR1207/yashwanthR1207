@@ -132,9 +132,11 @@ My mission is simple — bridge the gap between hardware and software through di
 |:---:|:---|:---|:---:|
 | 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
 | 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
-| 03 | **Industry Solver** | Real-time industry problem solving using embedded systems | Arduino, C++ |
+| 03 | **Industry Solver mini projects ** | Real-time industry problem solving using embedded systems | Arduino, C++ |
 | 04 | **ROBOsoccer** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky |
 | 05 | **ROBOsoccer Version 2** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
+| 06 | **RC car 1.0 ** | Competitive RC CAR  with 4 wheel drive and RC control | Arduino, BTS7960, FlySky two channel controle |
+| 07 | **ROBOsumo Version 2** | Competitive  bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
 
 ---
 
