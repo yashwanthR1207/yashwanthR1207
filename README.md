@@ -137,6 +137,7 @@ My mission is simple — bridge the gap between hardware and software through di
 | 05 | **ROBOsoccer Version 2** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
 | 06 | **RC car 1.0 ** | Competitive RC CAR  with 4 wheel drive and RC control | Arduino, BTS7960, FlySky two channel controle |
 | 07 | **ROBOsumo Version 2** | Competitive  bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
+| 08 | **AIOT plant system 2** |  communication viva mqtt,iot,aiot,esp32|
 
 ---
 
