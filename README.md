@@ -1,87 +1,93 @@
 <div align="center">
 
-<!-- HERO BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=200&section=header&text=Hello%2C%20I%27m&fontSize=28&fontColor=00FFFF&fontAlignY=35&desc=YASHWANTH%20R&descSize=60&descAlignY=65&descColor=00FFFF&animation=fadeIn&fontFamily=Orbitron" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=200&section=header&text=Hello%2C%20I%27m&fontSize=28&fontColor=00FFFF&fontAlignY=35&desc=YASHWANTH%20R&descSize=60&descAlignY=65&descColor=00FFFF&animation=fadeIn&fontFamily=Orbitron" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=0047AB&background=F0F4FFff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" width="100%" alt="YASHWANTH R" />
 </picture>
 
 <br>
 
-<!-- ANIME CHARACTER + INTRO -->
-<img align="right" width="300" src="https://i.pinimg.com/originals/e8/a1/3e/e8a13ea89dc72d4e47a91bba99601b7d.gif" alt="Anime Coder" />
-
-<div align="left">
-
-<br><br>
-
-### `{ Code. Create. Innovate. Inspire. }`
-
-<br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6600&center=false&vCenter=true&width=500&lines=Electrical+%26+Electronics+Engineer;IoT+Developer+%7C+Embedded+Systems;Hardware+Builder+%7C+Automation+Enthusiast;Turning+Circuits+into+Intelligence" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6600&center=false&vCenter=true&width=500&lines=Electrical+%26+Electronics+Engineer;IoT+Developer+%7C+Embedded+Systems;Hardware+Builder+%7C+Automation+Enthusiast;Turning+Circuits+into+Intelligence" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=650&lines=Electrical+and+Electronics+Engineer;Student+at+VVCE+Mysore;IoT+%7C+Embedded+Systems+%7C+Automation;Turning+Circuits+into+Intelligence" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=650&lines=Electrical+and+Electronics+Engineer;Student+at+VVCE+Mysore;IoT+%7C+Embedded+Systems+%7C+Automation;Turning+Circuits+into+Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=650&lines=Electrical+and+Electronics+Engineer;Student+at+VVCE+Mysore;IoT+%7C+Embedded+Systems+%7C+Automation;Turning+Circuits+into+Intelligence" alt="Typing SVG" />
 </picture>
 
 <br><br>
 
-> *A passionate engineer who loves turning hardware ideas into real-world solutions. Always learning. Always building.*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-r-7855a7395)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwanthR1207)
-[![VVCE Mysore](https://img.shields.io/badge/VVCE%20Mysore-8A2BE2?style=for-the-badge&logoColor=white)](https://vvce.ac.in)
-[![Profile Views](https://komarev.com/ghpvc/?username=yashwanthR1207&style=for-the-badge&color=00FFFF&label=VISITORS)](https://github.com/yashwanthR1207)
+<a href="https://www.linkedin.com/in/yashwanth-r-7855a7395">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/VVCE%20MYSORE-FF6600?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/B.E.%20EEE-8A2BE2?style=for-the-badge&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=yashwanthR1207&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" />
 
 </div>
 
-<br clear="right"/>
+---
+
+## SYSTEM IDENTITY
+```
+NAME        : Yashwanth R
+ROLE        : EEE Engineer | IoT Developer | Hardware Builder | Student
+LOCATION    : Mysore, Karnataka, India
+INSTITUTION : Vidyavardhaka College of Engineering, Mysore
+STATUS      : [ ONLINE ] — Building the future, one circuit at a time
+INTERESTS   : IoT · Embedded Systems · Power Electronics · Automation
+MISSION     : Merging hardware and firmware to solve real-world problems, ROBOTICS
+```
 
 ---
 
-<!-- ABOUT ME -->
-## 🚀 About Me
+## ABOUT ME
 
-<table>
-<tr>
-<td width="55%">
+> *"TURNING IDEAS INTO ENERGY"*
 
-```yaml
-NAME     : Yashwanth R
-ROLE     : EEE Engineer | IoT Developer
-LOCATION : Mysore, Karnataka, India
-COLLEGE  : VVCE Mysore (B.E. EEE)
-STATUS   : [ ONLINE ] — Building the future
-```
+I am a **B.E. Electrical and Electronics Engineering** student at **VVCE Mysore** who lives at the intersection of hardware design, embedded firmware, and IoT automation.
 
-- ⚡ Building **IoT automation & smart energy systems**
-- 🔧 Hands-on with **ESP8266, Arduino, NodeMCU**
-- 🤖 Competing in **Robo Soccer & Sumo tournaments**
-- 🔭 Exploring **Power Systems & Smart Grid Tech**
-- 🌱 Open to **Internships & Collaborations**
+I do not just study how circuits work — I build systems that **sense, think, and respond** to the real world. From smart warehouse automation to IoT-based home control systems, I turn ideas into working hardware.
 
-</td>
-<td width="45%">
+My mission is simple — bridge the gap between hardware and software through disciplined engineering, clean code, and creative problem solving.
 
-```
-✨  Open Source Enthusiast
-⚙️  Problem Solver
-☕  Circuit Brewer
-🌙  Night Coder
-🤖  Robotics Competitor
-⚡  Embedded Systems Fan
-```
-
-</td>
-</tr>
-</table>
+- Currently building **IoT automation and smart energy systems**
+- Hands-on with **ESP8266, Arduino, NodeMCU, and sensor integration**
+- Exploring **power systems, PLC programming, and smart grid technologies**
+- Open to **internships, collaborations, and real-world project challenges**
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+
+
+##  STREAK STATS
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yashwanthR1207&theme=dark&hide_border=false&border=FF6600&background=0D0D0D&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakNum=00FFFF&sideNums=ffffff&currStreakLabel=FF6600&sideLabels=00FFFF&dates=888888&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yashwanthR1207&theme=default&hide_border=false&border=0047AB&background=F0F4FF&stroke=0047AB&ring=FF6600&fire=FF6600&currStreakNum=0047AB&sideNums=1a1a1a&currStreakLabel=FF6600&sideLabels=0047AB&dates=555555&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=yashwanthR1207&theme=dark&hide_border=false&border=FF6600&background=0D0D0D&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakNum=00FFFF&sideNums=ffffff&currStreakLabel=FF6600&sideLabels=00FFFF&dates=888888&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" alt="GitHub Streak Stats" />
+</picture>
+
+</div>
+
+---
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=ffffff&color=0047AB&line=FF6600&point=0047AB&area=true&hide_border=false&border_color=0047AB" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" />
+</picture>
+
+</div>
+
+---
+
+## TECHNOLOGY STACK
 
 **Languages**
 
@@ -105,10 +111,10 @@ STATUS   : [ ONLINE ] — Building the future
 
 **Design & Electronics**
 
-![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black)
-![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white)
-![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logo=circuitverse&logoColor=white)
+![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white)
+![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black)
 
 **Tools & Dev**
 
@@ -120,148 +126,51 @@ STATUS   : [ ONLINE ] — Building the future
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## ⚡ Featured Projects
+## FEATURED PROJECTS
 
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ IoT Godown Automation
-Smart cotton warehouse with fire, moisture and occupancy monitoring. Real-time alerts via Blynk dashboard.
-
-`ESP8266` `Blynk` `C++` `Sensors`
-
-</td>
-<td width="50%">
-
-### 🏠 Smart Home Automation
-Multi-sensor home system with live web dashboard and automatic control. Remote monitoring from anywhere.
-
-`ESP8266` `Arduino` `HTTP` `Web Dashboard`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚽ ROBOsoccer v2
-Competitive robot soccer bot with tank drive, two-channel RC control and upgraded motor drivers.
-
-`Arduino` `BTS7960` `FlySky` `RC Control`
-
-</td>
-<td width="50%">
-
-### 🥊 ROBOsumo v2
-Combat sumo robot with powerful tank drive system, precision control via two-channel RC transmitter.
-
-`Arduino` `BTS7960` `FlySky` `RC Control`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 RC Car 1.0
-Custom-built four-wheel drive RC car with independent motor control and FlySky receiver integration.
-
-`Arduino` `BTS7960` `FlySky` `4WD`
-
-</td>
-<td width="50%">
-
-### 🔧 Industry Solver Mini Projects
-Real-time industry problem solving using embedded systems and sensor-based control solutions.
-
-`Arduino` `C++` `Sensors` `Automation`
-
-</td>
-</tr>
-</table>
+| # | Project | Description | Stack |
+|:---:|:---|:---|:---:|
+| 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
+| 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
+| 03 | **Industry Solver mini projects ** | Real-time industry problem solving using embedded systems | Arduino, C++ |
+| 04 | **ROBOsoccer** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky |
+| 05 | **ROBOsoccer Version 2** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
+| 06 | **RC car 1.0 ** | Competitive RC CAR  with 4 wheel drive and RC control | Arduino, BTS7960, FlySky two channel controle |
+| 07 | **ROBOsumo Version 2** | Competitive  bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff&border_color=00FFFF&border_radius=10&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashwanthR1207&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF6600&text_color=ffffff&border_color=00FFFF&border_radius=10" alt="Yashwanth's GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00FFFF&text_color=ffffff&border_color=FF6600&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthR1207&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00FFFF&text_color=ffffff&border_color=FF6600&border_radius=10" alt="Top Languages" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yashwanthR1207&theme=dark&hide_border=false&border=FF6600&background=0D0D0D&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakNum=00FFFF&sideNums=ffffff&currStreakLabel=FF6600&sideLabels=00FFFF&dates=888888&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" />
-  <img width="80%" src="https://streak-stats.demolab.com?user=yashwanthR1207&theme=dark&hide_border=false&border=FF6600&background=0D0D0D&stroke=00FFFF&ring=FF6600&fire=FF6600&currStreakNum=00FFFF&sideNums=ffffff&currStreakLabel=FF6600&sideLabels=00FFFF&dates=888888&date_format=j+M%5B+Y%5D&mode=weekly&card_width=800" alt="GitHub Streak Stats" />
-</picture>
-
-</div>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" alt="Contribution Graph" />
-</picture>
-
----
-
-<!-- CURRENTLY WORKING ON -->
-## 🔭 Currently Working On
-
+## CURRENTLY WORKING ON
 ```
-⚡  Smart Energy Monitoring System
-🌐  IoT-Based Load Controller
-📐  MATLAB Power System Simulation
-🤖  Robotics & Robo Competitions
-🧹  GitHub Portfolio Cleanup
+Smart Energy Monitoring System    
+IoT-Based Load Controller         
+MATLAB Power System Simulation
+Robotics
+ROBO COMPETITIONS     
+GitHub Portfolio Cleanup         
 ```
 
 ---
 
-<!-- CONNECT WITH ME -->
-## 🌐 Connect With Me
-
-<div align="center">
-
-*Let's connect and build something amazing together!*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-r-7855a7395)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwanthR1207)
-[![Location](https://img.shields.io/badge/Mysore%2C%20Karnataka-00FFFF?style=for-the-badge&logo=googlemaps&logoColor=black)](https://maps.google.com/?q=Mysore,Karnataka)
-
-<br>
+## OPEN TO
 
 ![Internships](https://img.shields.io/badge/Open%20To-Internships-00FFFF?style=flat-square&logoColor=black)
 ![Collaborations](https://img.shields.io/badge/Open%20To-Collaborations-FF6600?style=flat-square&logoColor=white)
 ![Tech Talks](https://img.shields.io/badge/Open%20To-Tech%20Talks-8A2BE2?style=flat-square&logoColor=white)
-
-</div>
+![Location](https://img.shields.io/badge/Location-Mysore%2C%20Karnataka-0047AB?style=flat-square&logo=googlemaps&logoColor=white)
 
 ---
 
 <div align="center">
 
-*⚡ Built with ❤️ and lots of ☕ by **Yashwanth R** — If you found my work useful, drop a ⭐ and let's build something great together!*
+*If you found my work useful — drop a star and let us build something great together.*
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:161616,100:0d0d0d&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f4ff,50:e8f0fe,100:f0f4ff&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:161616,100:0d0d0d&height=120&section=footer" />
 </picture>
 
 </div>
