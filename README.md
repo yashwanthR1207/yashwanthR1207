@@ -186,7 +186,7 @@ GitHub Portfolio Cleanup
 
 <div align="center">
 
-*If you found my work useful — drop a star and let us build something great together.*
+*If you Found my work useful — drop a star and let us build something great together.*
 
 <br>
 
