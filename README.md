@@ -91,56 +91,31 @@ My mission is simple — bridge the gap between hardware and software through di
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=500&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES;HARDWARE+%26+MICROCONTROLLERS;IoT+%26+AUTOMATION+PLATFORMS;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEVELOPMENT" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=500&color=FF6600&background=F0F4FFff&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES;HARDWARE+%26+MICROCONTROLLERS;IoT+%26+AUTOMATION+PLATFORMS;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEVELOPMENT" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=500&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES;HARDWARE+%26+MICROCONTROLLERS;IoT+%26+AUTOMATION+PLATFORMS;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEVELOPMENT" width="100%" alt="Tech Stack" />
-</picture>
-
----
-
-### <img src="https://img.shields.io/badge/-LANGUAGES-00FFFF?style=for-the-badge&logo=&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C-282C34?style=social&logo=c&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/C%2B%2B-282C34?style=social&logo=cplusplus&logoColor=FF6600" />
-<img src="https://img.shields.io/badge/Embedded%20C-282C34?style=social&logo=c&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/MATLAB-282C34?style=social&logo=mathworks&logoColor=FF6600" />
-
-<br><br>
-
-### <img src="https://img.shields.io/badge/-HARDWARE-FF6600?style=for-the-badge&logo=&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Arduino-282C34?style=social&logo=arduino&logoColor=8A2BE2" />
-<img src="https://img.shields.io/badge/ESP8266-282C34?style=social&logo=espressif&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/NodeMCU-282C34?style=social&logo=espressif&logoColor=FF6600" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-282C34?style=social&logo=raspberrypi&logoColor=8A2BE2" />
+<a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
 
 <br><br>
 
-### <img src="https://img.shields.io/badge/-IoT%20%26%20AUTOMATION-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Blynk-282C34?style=social&logo=blynk&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/MQTT-282C34?style=social&logo=mqtt&logoColor=FF6600" />
-<img src="https://img.shields.io/badge/HomeAssistant-282C34?style=social&logo=homeassistant&logoColor=8A2BE2" />
-
-<br><br>
-
-### <img src="https://img.shields.io/badge/-DESIGN%20%26%20ELECTRONICS-00FFFF?style=for-the-badge&logo=&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Circuit%20Design-282C34?style=social&logo=circuitverse&logoColor=FF6600" />
-<img src="https://img.shields.io/badge/Power%20Electronics-282C34?style=social&logo=electron&logoColor=8A2BE2" />
-<img src="https://img.shields.io/badge/AutoCAD%20Electrical-282C34?style=social&logo=autodesk&logoColor=FF6600" />
-<img src="https://img.shields.io/badge/KiCad-282C34?style=social&logo=kicad&logoColor=00FFFF" />
-
-<br><br>
-
-### <img src="https://img.shields.io/badge/-TOOLS%20%26%20DEV-FF6600?style=for-the-badge&logo=&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-282C34?style=social&logo=git&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/GitHub-282C34?style=social&logo=github&logoColor=FF6600" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?style=social&logo=visualstudiocode&logoColor=8A2BE2" />
-<img src="https://img.shields.io/badge/Arduino%20IDE-282C34?style=social&logo=arduino&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/Linux-282C34?style=social&logo=linux&logoColor=FF6600" />
+<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" /></a>
 
 </div>
 
