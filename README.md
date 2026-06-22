@@ -87,60 +87,60 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## TECHNOLOGY STACK
+## 🔧 TECHNOLOGY STACK
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=LANGUAGES;HARDWARE;IoT+%26+AUTOMATION;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEV" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1500&color=0047AB&center=true&vCenter=true&width=500&lines=LANGUAGES;HARDWARE;IoT+%26+AUTOMATION;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEV" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=LANGUAGES;HARDWARE;IoT+%26+AUTOMATION;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEV" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=500&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES;HARDWARE+%26+MICROCONTROLLERS;IoT+%26+AUTOMATION+PLATFORMS;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEVELOPMENT" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=500&color=FF6600&background=F0F4FFff&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES;HARDWARE+%26+MICROCONTROLLERS;IoT+%26+AUTOMATION+PLATFORMS;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEVELOPMENT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=500&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES;HARDWARE+%26+MICROCONTROLLERS;IoT+%26+AUTOMATION+PLATFORMS;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEVELOPMENT" width="100%" alt="Tech Stack" />
 </picture>
 
-<br><br>
+---
 
-### 🎯 LANGUAGES
+### <img src="https://img.shields.io/badge/-LANGUAGES-00FFFF?style=for-the-badge&logo=&logoColor=white" />
 
-![C](https://img.shields.io/badge/C-00FFFF?style=flat-square&logo=c&logoColor=black&labelColor=0D0D0D)
-![C++](https://img.shields.io/badge/C%2B%2B-FF6600?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D0D0D)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logo=c&logoColor=black&labelColor=0D0D0D)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white&labelColor=0D0D0D)
-
-<br><br>
-
-### ⚙️ HARDWARE & MICROCONTROLLERS
-
-![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=flat-square&logo=arduino&logoColor=white&labelColor=0D0D0D)
-![ESP8266](https://img.shields.io/badge/ESP8266-00FFFF?style=flat-square&logo=espressif&logoColor=black&labelColor=0D0D0D)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-FF6600?style=flat-square&logo=espressif&logoColor=white&labelColor=0D0D0D)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=0D0D0D)
+<img src="https://img.shields.io/badge/C-282C34?style=social&logo=c&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/C%2B%2B-282C34?style=social&logo=cplusplus&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/Embedded%20C-282C34?style=social&logo=c&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/MATLAB-282C34?style=social&logo=mathworks&logoColor=FF6600" />
 
 <br><br>
 
-### 🌐 IoT & AUTOMATION
+### <img src="https://img.shields.io/badge/-HARDWARE-FF6600?style=for-the-badge&logo=&logoColor=white" />
 
-![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logo=blynk&logoColor=black&labelColor=0D0D0D)
-![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=mqtt&logoColor=white&labelColor=0D0D0D)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white&labelColor=0D0D0D)
-
-<br><br>
-
-### 🎨 DESIGN & ELECTRONICS
-
-![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logo=circuitverse&logoColor=white&labelColor=0D0D0D)
-![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white&labelColor=0D0D0D)
-![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white&labelColor=0D0D0D)
-![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black&labelColor=0D0D0D)
+<img src="https://img.shields.io/badge/Arduino-282C34?style=social&logo=arduino&logoColor=8A2BE2" />
+<img src="https://img.shields.io/badge/ESP8266-282C34?style=social&logo=espressif&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/NodeMCU-282C34?style=social&logo=espressif&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-282C34?style=social&logo=raspberrypi&logoColor=8A2BE2" />
 
 <br><br>
 
-### 🛠️ TOOLS & DEVELOPMENT
+### <img src="https://img.shields.io/badge/-IoT%20%26%20AUTOMATION-8A2BE2?style=for-the-badge&logo=&logoColor=white" />
 
-![Git](https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=black&labelColor=0D0D0D)
-![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D)
-![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0D0D0D)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black&labelColor=0D0D0D)
-![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat-square&logo=linux&logoColor=white&labelColor=0D0D0D)
+<img src="https://img.shields.io/badge/Blynk-282C34?style=social&logo=blynk&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/MQTT-282C34?style=social&logo=mqtt&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/HomeAssistant-282C34?style=social&logo=homeassistant&logoColor=8A2BE2" />
+
+<br><br>
+
+### <img src="https://img.shields.io/badge/-DESIGN%20%26%20ELECTRONICS-00FFFF?style=for-the-badge&logo=&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Circuit%20Design-282C34?style=social&logo=circuitverse&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/Power%20Electronics-282C34?style=social&logo=electron&logoColor=8A2BE2" />
+<img src="https://img.shields.io/badge/AutoCAD%20Electrical-282C34?style=social&logo=autodesk&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/KiCad-282C34?style=social&logo=kicad&logoColor=00FFFF" />
+
+<br><br>
+
+### <img src="https://img.shields.io/badge/-TOOLS%20%26%20DEV-FF6600?style=for-the-badge&logo=&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-282C34?style=social&logo=git&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/GitHub-282C34?style=social&logo=github&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?style=social&logo=visualstudiocode&logoColor=8A2BE2" />
+<img src="https://img.shields.io/badge/Arduino%20IDE-282C34?style=social&logo=arduino&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/Linux-282C34?style=social&logo=linux&logoColor=FF6600" />
 
 </div>
 
