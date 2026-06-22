@@ -87,37 +87,42 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## 🔧 TECHNOLOGY STACK
+## TECHNOLOGY STACK
 
-<div align="center">
+**Languages**
 
-<a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
+![C](https://img.shields.io/badge/C-00FFFF?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-FF6600?style=flat-square&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logo=c&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)
 
-<br><br>
+**Hardware & Microcontrollers**
 
-<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" /></a>
+![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=flat-square&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-00FFFF?style=flat-square&logo=espressif&logoColor=black)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-FF6600?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white)
 
-</div>
+**IoT & Automation**
+
+![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logo=blynk&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=mqtt&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white)
+
+**Design & Electronics**
+
+![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logo=circuitverse&logoColor=white)
+![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white)
+![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black)
+
+**Tools & Dev**
+
+![Git](https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
@@ -161,7 +166,7 @@ GitHub Portfolio Cleanup
 
 <div align="center">
 
-*If you Found my work useful — drop a star and let us build something great together.*
+*If you found my work useful — drop a star and let us build something great together.*
 
 <br>
 
@@ -172,3 +177,4 @@ GitHub Portfolio Cleanup
 </picture>
 
 </div>
+
