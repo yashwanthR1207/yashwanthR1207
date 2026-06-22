@@ -89,40 +89,60 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ## TECHNOLOGY STACK
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00FFFF?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-FF6600?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=LANGUAGES;HARDWARE;IoT+%26+AUTOMATION;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEV" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1500&color=0047AB&center=true&vCenter=true&width=500&lines=LANGUAGES;HARDWARE;IoT+%26+AUTOMATION;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEV" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1500&color=00FFFF&center=true&vCenter=true&width=500&lines=LANGUAGES;HARDWARE;IoT+%26+AUTOMATION;DESIGN+%26+ELECTRONICS;TOOLS+%26+DEV" alt="Tech Stack" />
+</picture>
 
-**Hardware & Microcontrollers**
+<br><br>
 
-![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-00FFFF?style=flat-square&logo=espressif&logoColor=black)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-FF6600?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white)
+### 🎯 LANGUAGES
 
-**IoT & Automation**
+![C](https://img.shields.io/badge/C-00FFFF?style=flat-square&logo=c&logoColor=black&labelColor=0D0D0D)
+![C++](https://img.shields.io/badge/C%2B%2B-FF6600?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D0D0D)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logo=c&logoColor=black&labelColor=0D0D0D)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white&labelColor=0D0D0D)
 
-![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logo=blynk&logoColor=black)
-![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=mqtt&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white)
+<br><br>
 
-**Design & Electronics**
+### ⚙️ HARDWARE & MICROCONTROLLERS
 
-![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logo=circuitverse&logoColor=white)
-![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white)
-![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=flat-square&logo=arduino&logoColor=white&labelColor=0D0D0D)
+![ESP8266](https://img.shields.io/badge/ESP8266-00FFFF?style=flat-square&logo=espressif&logoColor=black&labelColor=0D0D0D)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-FF6600?style=flat-square&logo=espressif&logoColor=white&labelColor=0D0D0D)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=0D0D0D)
 
-**Tools & Dev**
+<br><br>
 
-![Git](https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat-square&logo=linux&logoColor=white)
+### 🌐 IoT & AUTOMATION
+
+![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logo=blynk&logoColor=black&labelColor=0D0D0D)
+![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=mqtt&logoColor=white&labelColor=0D0D0D)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white&labelColor=0D0D0D)
+
+<br><br>
+
+### 🎨 DESIGN & ELECTRONICS
+
+![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logo=circuitverse&logoColor=white&labelColor=0D0D0D)
+![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white&labelColor=0D0D0D)
+![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white&labelColor=0D0D0D)
+![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black&labelColor=0D0D0D)
+
+<br><br>
+
+### 🛠️ TOOLS & DEVELOPMENT
+
+![Git](https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=black&labelColor=0D0D0D)
+![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D)
+![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0D0D0D)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black&labelColor=0D0D0D)
+![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat-square&logo=linux&logoColor=white&labelColor=0D0D0D)
+
+</div>
 
 ---
 
