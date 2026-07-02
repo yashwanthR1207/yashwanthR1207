@@ -106,7 +106,10 @@ My mission is simple — bridge the gap between hardware and software through di
 </picture>
 <br>
 <p align="center">
-  <code>Embedded C/C++</code> • <code>Python automation</code> • <code>MATLAB basics</code> • <code>Data handling foundations</code>
+  <img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-00FFFF?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C/C++" />
+  <img src="https://img.shields.io/badge/Python_automation-FF6600?style=for-the-badge&logo=python&logoColor=white" alt="Python automation" />
+  <img src="https://img.shields.io/badge/MATLAB_basics-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB basics" />
+  <img src="https://img.shields.io/badge/Data_handling_foundations-0047AB?style=for-the-badge&logo=databricks&logoColor=white" alt="Data handling foundations" />
 </p>
 
 <br><br>
@@ -126,7 +129,9 @@ My mission is simple — bridge the gap between hardware and software through di
 </picture>
 <br>
 <p align="center">
-  <code>Arduino</code> • <code>ESP32</code> • <code>Raspberry Pi</code>
+  <img src="https://img.shields.io/badge/Arduino-00FFFF?style=for-the-badge&logo=arduino&logoColor=black" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-FF6600?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-8A2BE2?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
 <br><br>
@@ -146,7 +151,9 @@ My mission is simple — bridge the gap between hardware and software through di
 </picture>
 <br>
 <p align="center">
-  <code>PCB basics</code> • <code>Circuit analysis</code> • <code>Robotics control</code>
+  <img src="https://img.shields.io/badge/PCB_basics-00FFFF?style=for-the-badge&logo=altiumdesigner&logoColor=black" alt="PCB basics" />
+  <img src="https://img.shields.io/badge/Circuit_analysis-FF6600?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Circuit analysis" />
+  <img src="https://img.shields.io/badge/Robotics_control-8A2BE2?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics control" />
 </p>
 
 <br><br>
@@ -166,7 +173,10 @@ My mission is simple — bridge the gap between hardware and software through di
 </picture>
 <br>
 <p align="center">
-  <code>Version Control</code> • <code>Linux/Bash</code> • <code>Docker</code> • <code>API Testing</code>
+  <img src="https://img.shields.io/badge/Version_Control-00FFFF?style=for-the-badge&logo=git&logoColor=black" alt="Version Control" />
+  <img src="https://img.shields.io/badge/Linux%2FBash-FF6600?style=for-the-badge&logo=linux&logoColor=white" alt="Linux/Bash" />
+  <img src="https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/API_Testing-0047AB?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
 </p>
 
 <br><br>
@@ -186,7 +196,11 @@ My mission is simple — bridge the gap between hardware and software through di
 </picture>
 <br>
 <p align="center">
-  <code>MQTT</code> • <code>HTTP</code> • <code>Sensor integration</code> • <code>Cloud basics</code> • <code>Device-to-dashboard workflows</code>
+  <img src="https://img.shields.io/badge/MQTT-00FFFF?style=for-the-badge&logo=mqtt&logoColor=black" alt="MQTT" />
+  <img src="https://img.shields.io/badge/HTTP-FF6600?style=for-the-badge&logo=httpie&logoColor=white" alt="HTTP" />
+  <img src="https://img.shields.io/badge/Sensor_integration-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white" alt="Sensor integration" />
+  <img src="https://img.shields.io/badge/Cloud_basics-0047AB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud basics" />
+  <img src="https://img.shields.io/badge/Device--to--dashboard_workflows-00FFFF?style=for-the-badge&logo=grafana&logoColor=black" alt="Device-to-dashboard workflows" />
 </p>
 
 </div>
