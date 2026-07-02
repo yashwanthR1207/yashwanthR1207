@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="assets/hero_hands.gif" width="100%" alt="Cyberpunk Glitch Hands" />
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=0047AB&background=F0F4FFff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1&pause=10000&color=00FFFF&background=0D0D0Dff&center=true&vCenter=true&repeat=false&width=800&height=150&lines=YASHWANTH+R" width="100%" alt="YASHWANTH R" />
 </picture>
 
-<br>
-<img src="assets/hero_hands.gif" width="100%" alt="Cyberpunk Glitch Hands" />
 <br><br>
 
 <picture>
