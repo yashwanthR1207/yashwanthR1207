@@ -59,7 +59,9 @@ My mission is simple — bridge the gap between hardware and software through di
 
 
 
-##  STREAK STATS
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=STREAK+STATS" alt="Streak Stats" />
+</div>
 
 <div align="center">
 
@@ -73,7 +75,9 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## CONTRIBUTION GRAPH
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=CONTRIBUTION+GRAPH" alt="Contribution Graph" />
+</div>
 
 <div align="center">
 
@@ -87,7 +91,9 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## TECHNOLOGY STACK
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TECHNOLOGY+STACK" alt="Technology Stack" />
+</div>
 
 <div align="center">
 
@@ -117,7 +123,9 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## FEATURED PROJECTS
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=FEATURED+PROJECTS" alt="Featured Projects" />
+</div>
 
 | # | Project | Description | Stack |
 |:---:|:---|:---|:---:|
@@ -134,7 +142,9 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ---
 
-## CURRENTLY WORKING ON
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=CURRENTLY+WORKING+ON" alt="Currently Working On" />
+</div>
 ```
 Smart Energy Monitoring System    
 IoT-Based Load Controller         
