@@ -7,7 +7,7 @@
 </picture>
 
 <br>
-<img src="assets/hero_hands.gif" width="80%" alt="Cyberpunk Glitch Hands" />
+<img src="assets/hero_hands.gif" width="100%" alt="Cyberpunk Glitch Hands" />
 <br><br>
 
 <picture>
