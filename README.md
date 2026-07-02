@@ -117,13 +117,6 @@ My mission is simple — bridge the gap between hardware and software through di
         </a>
       </td>
       <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=matlab" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/matlab" width="48" height="48" alt="MATLAB" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">MATLAB</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
         <a href="https://simpleicons.org/?q=pandas" target="_blank" style="text-decoration: none;">
           <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Data Handling" />
           <br><br>
@@ -169,13 +162,6 @@ My mission is simple — bridge the gap between hardware and software through di
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=altiumdesigner" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/altiumdesigner" width="48" height="48" alt="PCB Design" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">PCB Design</span>
-        </a>
-      </td>
       <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
         <a href="https://simpleicons.org/?q=circuitverse" target="_blank" style="text-decoration: none;">
           <img src="https://cdn.simpleicons.org/circuitverse" width="48" height="48" alt="Circuit Analysis" />
