@@ -100,9 +100,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,matlab,java,js,html,css&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,matlab,java,js,html,css&theme=light" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,java,js,html,css&theme=dark" alt="Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="Languages" />
 </picture>
 <br>
 <p align="center">
@@ -123,9 +123,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,raspberrypi,ubuntu,windows,apple&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino,raspberrypi,ubuntu,windows,apple&theme=light" />
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ubuntu,windows,apple&theme=dark" alt="Hardware" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino&theme=light" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Hardware" />
 </picture>
 <br>
 <p align="center">
@@ -145,9 +145,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=autocad,blender,figma,ps,ai,pr&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=autocad,blender,figma,ps,ai,pr&theme=light" />
-  <img src="https://skillicons.dev/icons?i=autocad,blender,figma,ps,ai,pr&theme=dark" alt="Design" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=autocad&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=autocad&theme=light" />
+  <img src="https://skillicons.dev/icons?i=autocad&theme=dark" alt="Design" />
 </picture>
 <br>
 <p align="center">
@@ -167,9 +167,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cmake,docker,vim,postman,powershell&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cmake,docker,vim,postman,powershell&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cmake,docker,vim,postman,powershell&theme=dark" alt="Tools" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tools" />
 </picture>
 <br>
 <p align="center">
@@ -190,9 +190,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,opencv,ros,aws,gcp,mysql,mongodb&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase,opencv,ros,aws,gcp,mysql,mongodb&theme=light" />
-  <img src="https://skillicons.dev/icons?i=firebase,opencv,ros,aws,gcp,mysql,mongodb&theme=dark" alt="IoT and Cloud" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="IoT and Cloud" />
 </picture>
 <br>
 <p align="center">
