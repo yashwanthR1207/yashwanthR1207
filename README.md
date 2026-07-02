@@ -89,120 +89,146 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ## TECHNOLOGY STACK
 
+<br>
+
+<h3 align="center" style="color: #c9d1d9;">Programming</h3>
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES" alt="PROGRAMMING LANGUAGES" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="Languages" />
-</picture>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-00FFFF?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C/C++" />
-  <img src="https://img.shields.io/badge/Python_automation-FF6600?style=for-the-badge&logo=python&logoColor=white" alt="Python automation" />
-  <img src="https://img.shields.io/badge/MATLAB_basics-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB basics" />
-  <img src="https://img.shields.io/badge/Data_handling_foundations-0047AB?style=for-the-badge&logo=databricks&logoColor=white" alt="Data handling foundations" />
-</p>
-
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=c" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/c" width="48" height="48" alt="C" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">C</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=cplusplus" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/cplusplus" width="48" height="48" alt="C++" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">C++</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=python" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="Python" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Python</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=matlab" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/matlab" width="48" height="48" alt="MATLAB" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">MATLAB</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=pandas" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Data Handling" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Data Handling</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=HARDWARE+%26+MICROCONTROLLERS" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=HARDWARE+%26+MICROCONTROLLERS" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=HARDWARE+%26+MICROCONTROLLERS" alt="HARDWARE & MICROCONTROLLERS" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino&theme=light" />
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Hardware" />
-</picture>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00FFFF?style=for-the-badge&logo=arduino&logoColor=black" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-FF6600?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-8A2BE2?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-</p>
-
+<h3 align="center" style="color: #c9d1d9;">Embedded & IoT</h3>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=arduino" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/arduino" width="48" height="48" alt="Arduino" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Arduino</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=espressif" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/espressif" width="48" height="48" alt="ESP32" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">ESP32</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=raspberrypi" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Raspberry Pi</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DESIGN+%26+ELECTRONICS" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=DESIGN+%26+ELECTRONICS" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DESIGN+%26+ELECTRONICS" alt="DESIGN & ELECTRONICS" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=autocad&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=autocad&theme=light" />
-  <img src="https://skillicons.dev/icons?i=autocad&theme=dark" alt="Design" />
-</picture>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/PCB_basics-00FFFF?style=for-the-badge&logo=altiumdesigner&logoColor=black" alt="PCB basics" />
-  <img src="https://img.shields.io/badge/Circuit_analysis-FF6600?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Circuit analysis" />
-  <img src="https://img.shields.io/badge/Robotics_control-8A2BE2?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics control" />
-</p>
-
+<h3 align="center" style="color: #c9d1d9;">Electronics</h3>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=altiumdesigner" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/altiumdesigner" width="48" height="48" alt="PCB Design" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">PCB Design</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=circuitverse" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/circuitverse" width="48" height="48" alt="Circuit Analysis" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Circuit Analysis</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=ros" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/ros" width="48" height="48" alt="Robotics" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Robotics</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TOOLS+%26+DEV" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=TOOLS+%26+DEV" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TOOLS+%26+DEV" alt="TOOLS & DEV" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tools" />
-</picture>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Version_Control-00FFFF?style=for-the-badge&logo=git&logoColor=black" alt="Version Control" />
-  <img src="https://img.shields.io/badge/Linux%2FBash-FF6600?style=for-the-badge&logo=linux&logoColor=white" alt="Linux/Bash" />
-  <img src="https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/API_Testing-0047AB?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
-</p>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=IOT+%26+CLOUD" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=IOT+%26+CLOUD" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=IOT+%26+CLOUD" alt="IOT & CLOUD" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase&theme=light" />
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="IoT and Cloud" />
-</picture>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/MQTT-00FFFF?style=for-the-badge&logo=mqtt&logoColor=black" alt="MQTT" />
-  <img src="https://img.shields.io/badge/HTTP-FF6600?style=for-the-badge&logo=httpie&logoColor=white" alt="HTTP" />
-  <img src="https://img.shields.io/badge/Sensor_integration-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white" alt="Sensor integration" />
-  <img src="https://img.shields.io/badge/Cloud_basics-0047AB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud basics" />
-  <img src="https://img.shields.io/badge/Device--to--dashboard_workflows-00FFFF?style=for-the-badge&logo=grafana&logoColor=black" alt="Device-to-dashboard workflows" />
-</p>
-
+<h3 align="center" style="color: #c9d1d9;">Development Tools</h3>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=git" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/git" width="48" height="48" alt="Git" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Git</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=linux" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/linux" width="48" height="48" alt="Linux" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Linux</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=docker" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Docker</span>
+        </a>
+      </td>
+      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <a href="https://simpleicons.org/?q=postman" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/postman" width="48" height="48" alt="Postman" />
+          <br><br>
+          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Postman</span>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
