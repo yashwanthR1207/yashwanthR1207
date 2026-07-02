@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero_hands.gif" width="100%" alt="Cyberpunk Aesthetic Hands" />
+<img src="assets/hero_name_glitch.gif" width="100%" alt="Cyberpunk Aesthetic Hands" />
 
 <br><br>
 
