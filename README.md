@@ -89,33 +89,31 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ## TECHNOLOGY STACK
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES" alt="Programming Languages" />
 <br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=dark" />
 
-<h3 align="center" style="color: #c9d1d9;">Programming</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=dark" />
-</p>
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=HARDWARE+%26+MICROCONTROLLERS" alt="Hardware & Microcontrollers" />
 <br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
-<h3 align="center" style="color: #c9d1d9;">Embedded & IoT</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-</p>
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DESIGN+%26+ELECTRONICS" alt="Design & Electronics" />
 <br>
+<img src="https://skillicons.dev/icons?i=ros&theme=dark" />
 
-<h3 align="center" style="color: #c9d1d9;">Electronics</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ros&theme=dark" />
-</p>
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TOOLS+%26+DEV" alt="Tools & Dev" />
 <br>
+<img src="https://skillicons.dev/icons?i=git,linux,docker,postman&theme=dark" />
 
-<h3 align="center" style="color: #c9d1d9;">Development Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,postman&theme=dark" />
-</p>
+</div>
 
 ---
 
