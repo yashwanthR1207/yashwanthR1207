@@ -93,39 +93,28 @@ My mission is simple — bridge the gap between hardware and software through di
 
 <h3 align="center" style="color: #c9d1d9;">Programming</h3>
 <p align="center">
-  <img src="assets/tech/c.svg" width="180" />
-  <img src="assets/tech/cplusplus.svg" width="180" />
-  <img src="assets/tech/python.svg" width="180" />
-  <img src="assets/tech/matlab.svg" width="180" />
-  <img src="assets/tech/pandas.svg" width="180" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=dark" />
 </p>
 
 <br>
 
 <h3 align="center" style="color: #c9d1d9;">Embedded & IoT</h3>
 <p align="center">
-  <img src="assets/tech/arduino.svg" width="180" />
-  <img src="assets/tech/espressif.svg" width="180" />
-  <img src="assets/tech/raspberrypi.svg" width="180" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 </p>
 
 <br>
 
 <h3 align="center" style="color: #c9d1d9;">Electronics</h3>
 <p align="center">
-  <img src="assets/tech/pcb.svg" width="180" />
-  <img src="assets/tech/circuitverse.svg" width="180" />
-  <img src="assets/tech/ros.svg" width="180" />
+  <img src="https://skillicons.dev/icons?i=ros&theme=dark" />
 </p>
 
 <br>
 
 <h3 align="center" style="color: #c9d1d9;">Development Tools</h3>
 <p align="center">
-  <img src="assets/tech/git.svg" width="180" />
-  <img src="assets/tech/linux.svg" width="180" />
-  <img src="assets/tech/docker.svg" width="180" />
-  <img src="assets/tech/postman.svg" width="180" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,postman&theme=dark" />
 </p>
 
 ---
