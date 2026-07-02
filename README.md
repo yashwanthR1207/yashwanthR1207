@@ -7,6 +7,8 @@
 </picture>
 
 <br>
+<img src="assets/hero_hands.gif" width="80%" alt="Cyberpunk Glitch Hands" />
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=650&lines=Electrical+and+Electronics+Engineer;Student+at+VVCE+Mysore;IoT+%7C+Embedded+Systems+%7C+Automation;Turning+Circuits+into+Intelligence" />
