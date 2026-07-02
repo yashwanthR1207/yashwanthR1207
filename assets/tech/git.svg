@@ -1,0 +1,65 @@
+<svg width="240" height="260" viewBox="0 0 240 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_git" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0099ff" stop-opacity="0.02" />
+    </linearGradient>
+    <linearGradient id="border_git" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0099ff" stop-opacity="0.3" />
+    </linearGradient>
+    <linearGradient id="glowGrad_git" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0099ff" stop-opacity="0.2" />
+    </linearGradient>
+    
+    <filter id="neon_text_git" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur1" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="neon_logo_git" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur1" />
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g>
+    <!-- Master Floating Animation -->
+    <animateTransform attributeName="transform" type="translate" values="0,2; 0,-8; 0,2" dur="4s" repeatCount="indefinite" />
+    
+    <!-- Outer Glow Behind Card -->
+    <rect x="25" y="25" width="190" height="210" rx="20" fill="url(#glowGrad_git)" filter="blur(20px)">
+      <animate attributeName="opacity" values="0.4; 0.8; 0.4" dur="3s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Glassmorphism Card Base -->
+    <rect x="25" y="25" width="190" height="210" rx="20" fill="#0D1117" stroke="url(#border_git)" stroke-width="2" />
+    <rect x="25" y="25" width="190" height="210" rx="20" fill="url(#grad_git)" />
+
+    <!-- Animated Particle Rings -->
+    <circle cx="120" cy="110" r="50" fill="none" stroke="#00ff88" stroke-width="1" stroke-dasharray="4 8" opacity="0.3">
+      <animateTransform attributeName="transform" type="rotate" values="0 120 110; 360 120 110" dur="20s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="120" cy="110" r="65" fill="none" stroke="#0099ff" stroke-width="1" stroke-dasharray="2 10" opacity="0.2">
+      <animateTransform attributeName="transform" type="rotate" values="360 120 110; 0 120 110" dur="15s" repeatCount="indefinite" />
+    </circle>
+    
+    <!-- Logo with Neon Glow and Pulse -->
+    <g transform="translate(80, 70) scale(3.3)" fill="#ffffff" filter="url(#neon_logo_git)">
+      <animate attributeName="opacity" values="0.7; 1; 0.7" dur="2.5s" repeatCount="indefinite" />
+      <path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z"/>
+    </g>
+    
+    <!-- Technology Name -->
+    <text x="120" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" filter="url(#neon_text_git)">Git</text>
+  </g>
+</svg>

@@ -92,130 +92,41 @@ My mission is simple — bridge the gap between hardware and software through di
 <br>
 
 <h3 align="center" style="color: #c9d1d9;">Programming</h3>
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=c" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/c" width="48" height="48" alt="C" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">C</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=cplusplus" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/cplusplus" width="48" height="48" alt="C++" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">C++</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=python" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="Python" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Python</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=pandas" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Data Handling" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Data Handling</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br><br>
+<p align="center">
+  <img src="assets/tech/c.svg" width="180" />
+  <img src="assets/tech/cplusplus.svg" width="180" />
+  <img src="assets/tech/python.svg" width="180" />
+  <img src="assets/tech/matlab.svg" width="180" />
+  <img src="assets/tech/pandas.svg" width="180" />
+</p>
+
+<br>
 
 <h3 align="center" style="color: #c9d1d9;">Embedded & IoT</h3>
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=arduino" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/arduino" width="48" height="48" alt="Arduino" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Arduino</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=espressif" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/espressif" width="48" height="48" alt="ESP32" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">ESP32</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=raspberrypi" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/raspberrypi" width="48" height="48" alt="Raspberry Pi" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Raspberry Pi</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br><br>
+<p align="center">
+  <img src="assets/tech/arduino.svg" width="180" />
+  <img src="assets/tech/espressif.svg" width="180" />
+  <img src="assets/tech/raspberrypi.svg" width="180" />
+</p>
+
+<br>
 
 <h3 align="center" style="color: #c9d1d9;">Electronics</h3>
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=circuitverse" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/circuitverse" width="48" height="48" alt="Circuit Analysis" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Circuit Analysis</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=ros" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/ros" width="48" height="48" alt="Robotics" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Robotics</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br><br>
+<p align="center">
+  <img src="assets/tech/pcb.svg" width="180" />
+  <img src="assets/tech/circuitverse.svg" width="180" />
+  <img src="assets/tech/ros.svg" width="180" />
+</p>
+
+<br>
 
 <h3 align="center" style="color: #c9d1d9;">Development Tools</h3>
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=git" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/git" width="48" height="48" alt="Git" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Git</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=linux" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/linux" width="48" height="48" alt="Linux" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Linux</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=docker" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Docker</span>
-        </a>
-      </td>
-      <td align="center" width="140" bgcolor="#0D1117" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://simpleicons.org/?q=postman" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/postman" width="48" height="48" alt="Postman" />
-          <br><br>
-          <span style="color: #c9d1d9; font-weight: 600; font-size: 14px;">Postman</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="assets/tech/git.svg" width="180" />
+  <img src="assets/tech/linux.svg" width="180" />
+  <img src="assets/tech/docker.svg" width="180" />
+  <img src="assets/tech/postman.svg" width="180" />
+</p>
 
 ---
 
