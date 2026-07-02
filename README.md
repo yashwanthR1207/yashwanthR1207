@@ -89,40 +89,87 @@ My mission is simple — bridge the gap between hardware and software through di
 
 ## TECHNOLOGY STACK
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00FFFF?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-FF6600?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00FFFF?style=flat-square&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=PROGRAMMING+LANGUAGES" alt="PROGRAMMING LANGUAGES" />
+</picture>
 
-**Hardware & Microcontrollers**
+<br>
 
-![Arduino](https://img.shields.io/badge/Arduino-8A2BE2?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-00FFFF?style=flat-square&logo=espressif&logoColor=black)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-FF6600?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=dark" alt="Languages" />
+</picture>
 
-**IoT & Automation**
+<br><br>
 
-![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-00FFFF?style=flat-square&logo=blynk&logoColor=black)
-![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat-square&logo=mqtt&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-8A2BE2?style=flat-square&logo=homeassistant&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=HARDWARE+%26+MICROCONTROLLERS" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=HARDWARE+%26+MICROCONTROLLERS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=HARDWARE+%26+MICROCONTROLLERS" alt="HARDWARE & MICROCONTROLLERS" />
+</picture>
 
-**Design & Electronics**
+<br>
 
-![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6600?style=flat-square&logo=circuitverse&logoColor=white)
-![Power Electronics](https://img.shields.io/badge/Power%20Electronics-8A2BE2?style=flat-square&logo=electron&logoColor=white)
-![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-FF6600?style=flat-square&logo=autodesk&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-00FFFF?style=flat-square&logo=kicad&logoColor=black)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Hardware" />
+</picture>
 
-**Tools & Dev**
+<br><br>
 
-![Git](https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00FFFF?style=flat-square&logo=arduino&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat-square&logo=linux&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DESIGN+%26+ELECTRONICS" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=DESIGN+%26+ELECTRONICS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DESIGN+%26+ELECTRONICS" alt="DESIGN & ELECTRONICS" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=autocad,blender,figma&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=autocad,blender,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=autocad,blender,figma&theme=dark" alt="Design" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TOOLS+%26+DEV" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=TOOLS+%26+DEV" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TOOLS+%26+DEV" alt="TOOLS & DEV" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cmake,docker&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cmake,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cmake,docker&theme=dark" alt="Tools" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=IOT+%26+CLOUD" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=IOT+%26+CLOUD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=IOT+%26+CLOUD" alt="IOT & CLOUD" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,opencv,ros&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase,opencv,ros&theme=light" />
+  <img src="https://skillicons.dev/icons?i=firebase,opencv,ros&theme=dark" alt="IoT and Cloud" />
+</picture>
+
+</div>
 
 ---
 
