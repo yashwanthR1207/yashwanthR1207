@@ -87,20 +87,17 @@ def generate_markdown(repos):
     markdown = "<table>\n"
     markdown += "  <tr>\n"
     markdown += "    <th>Project</th>\n"
-    markdown += "    <th>Description</th>\n"
     markdown += "    <th>Tech Stack</th>\n"
     markdown += "  </tr>\n"
     
     for repo in repos:
         name = repo["name"].replace("-", " ").title()
         url = repo["html_url"]
-        desc = repo.get("description") or ""
         
         stack_html = extract_stack_html(repo)
         
         markdown += "  <tr>\n"
         markdown += f'    <td><b><a href="{url}">{name}</a></b></td>\n'
-        markdown += f'    <td>{desc}</td>\n'
         markdown += f'    <td align="center">{stack_html}</td>\n'
         markdown += "  </tr>\n"
         
