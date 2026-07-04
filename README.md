@@ -123,6 +123,7 @@ My mission is simple — bridge the gap between hardware and software through di
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=FEATURED+PROJECTS" alt="Featured Projects" />
 </div>
 
+<!-- PROJECTS:START -->
 | # | Project | Description | Stack |
 |:---:|:---|:---|:---:|
 | 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
@@ -134,8 +135,7 @@ My mission is simple — bridge the gap between hardware and software through di
 | 07 | **ROBOsumo Version 2** | Competitive  bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
 | 08 | **AIOT plant system 2** |  communication viva mqtt,iot,aiot,esp32|
 | 09 | **Main-portfolio** |  its me ,dont copy |
-
-
+<!-- PROJECTS:END -->
 ---
 
 <div align="center">
