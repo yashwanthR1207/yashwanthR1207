@@ -1,9 +1,33 @@
 import urllib.request
+import urllib.parse
 import json
 import re
 
 USERNAME = "yashwanthR1207"
 EXCLUDE_FORKS = True
+
+ICON_MAP = {
+    "c++": "cpp",
+    "c": "c",
+    "python": "python",
+    "javascript": "js",
+    "typescript": "ts",
+    "html": "html",
+    "css": "css",
+    "arduino": "arduino",
+    "matlab": "matlab",
+    "jupyter notebook": "python",
+    "java": "java",
+    "c#": "cs",
+    "php": "php",
+    "shell": "bash",
+    "vue": "vue",
+    "react": "react",
+    "nodejs": "nodejs",
+    "docker": "docker",
+    "linux": "linux",
+    "ros": "ros"
+}
 
 def get_repos():
     url = f"https://api.github.com/users/{USERNAME}/repos?type=public&sort=updated&per_page=100"
@@ -18,30 +42,66 @@ def get_repos():
         
     return repos
 
-def generate_markdown(repos):
-    markdown = "<table width=\"100%\">\n"
-    for i in range(0, len(repos), 2):
-        markdown += "  <tr>\n"
-        
-        # First column
-        repo1 = repos[i]
-        markdown += f'    <td width="50%">\n'
-        markdown += f'      <a href="{repo1["html_url"]}">\n'
-        markdown += f'        <img src="https://github-readme-stats.vercel.app/api/pin/?username={USERNAME}&repo={repo1["name"]}&theme=dark&bg_color=0D0D0D&border_color=00FFFF&title_color=FF6600&text_color=FFFFFF&icon_color=FF6600" width="100%" />\n'
-        markdown += f'      </a>\n'
-        markdown += f'    </td>\n'
-        
-        # Second column
-        if i + 1 < len(repos):
-            repo2 = repos[i + 1]
-            markdown += f'    <td width="50%">\n'
-            markdown += f'      <a href="{repo2["html_url"]}">\n'
-            markdown += f'        <img src="https://github-readme-stats.vercel.app/api/pin/?username={USERNAME}&repo={repo2["name"]}&theme=dark&bg_color=0D0D0D&border_color=00FFFF&title_color=FF6600&text_color=FFFFFF&icon_color=FF6600" width="100%" />\n'
-            markdown += f'      </a>\n'
-            markdown += f'    </td>\n'
+def extract_stack_html(repo):
+    icons = set()
+    badges = []
+    
+    # 1. Check primary language
+    lang = repo.get("language")
+    if lang:
+        lang_lower = lang.lower()
+        if lang_lower in ICON_MAP:
+            icons.add(ICON_MAP[lang_lower])
+        elif lang_lower in ["html", "css", "java", "ruby", "rust", "go", "swift", "kotlin", "dart", "bash", "c", "cpp"]:
+            icons.add(lang_lower)
         else:
-            markdown += f'    <td width="50%"></td>\n'
+            badges.append(lang)
+
+    # 2. Check topics
+    topics = repo.get("topics", [])
+    for topic in topics:
+        topic_lower = topic.lower()
+        if topic_lower in ICON_MAP:
+            icons.add(ICON_MAP[topic_lower])
+        elif topic_lower in ["arduino", "raspberrypi", "linux", "docker", "ros", "react", "vue", "nodejs", "mongodb"]:
+            icons.add(topic_lower)
+        else:
+            badges.append(topic)
             
+    html_parts = []
+    if icons:
+        icon_str = ",".join(list(icons))
+        html_parts.append(f'<img src="https://skillicons.dev/icons?i={icon_str}&theme=dark" height="30" valign="middle" />')
+        
+    for badge in badges[:3]: # limit to max 3 extra badges so it doesn't get too long
+        badge_name = badge.replace("-", " ").upper()
+        badge_url_name = urllib.parse.quote(badge_name)
+        html_parts.append(f'<img src="https://img.shields.io/badge/{badge_url_name}-0D0D0D?style=flat-square&color=FF6600" height="28" valign="middle" />')
+        
+    if not html_parts:
+        return "N/A"
+        
+    return "&nbsp;".join(html_parts)
+
+def generate_markdown(repos):
+    markdown = "<table>\n"
+    markdown += "  <tr>\n"
+    markdown += "    <th>Project</th>\n"
+    markdown += "    <th>Description</th>\n"
+    markdown += "    <th>Tech Stack</th>\n"
+    markdown += "  </tr>\n"
+    
+    for repo in repos:
+        name = repo["name"].replace("-", " ").title()
+        url = repo["html_url"]
+        desc = repo.get("description") or ""
+        
+        stack_html = extract_stack_html(repo)
+        
+        markdown += "  <tr>\n"
+        markdown += f'    <td><b><a href="{url}">{name}</a></b></td>\n'
+        markdown += f'    <td>{desc}</td>\n'
+        markdown += f'    <td align="center">{stack_html}</td>\n'
         markdown += "  </tr>\n"
         
     markdown += "</table>\n"
@@ -55,7 +115,7 @@ def update_readme(markdown):
     end_marker = "<!-- PROJECTS:END -->"
     
     pattern = f"{start_marker}.*?{end_marker}"
-    replacement = f"{start_marker}\n{markdown}{end_marker}"
+    replacement = f"{start_marker}\n{markdown}\n{end_marker}"
     
     new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
