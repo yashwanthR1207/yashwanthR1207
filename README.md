@@ -124,17 +124,79 @@ My mission is simple — bridge the gap between hardware and software through di
 </div>
 
 <!-- PROJECTS:START -->
-| # | Project | Description | Stack |
-|:---:|:---|:---|:---:|
-| 01 | **IoT Godown Automation** | Smart cotton warehouse with fire, moisture and occupancy monitoring | ESP8266, Blynk, C++ |
-| 02 | **Smart Home Automation** | Multi-sensor home system with live web dashboard and auto control | ESP8266, Arduino, HTTP |
-| 03 | **Industry Solver mini projects ** | Real-time industry problem solving using embedded systems | Arduino, C++ |
-| 04 | **ROBOsoccer** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky |
-| 05 | **ROBOsoccer Version 2** | Competitive robot soccer bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
-| 06 | **RC car 1.0 ** | Competitive RC CAR  with 4 wheel drive and RC control | Arduino, BTS7960, FlySky two channel controle |
-| 07 | **ROBOsumo Version 2** | Competitive  bot with tank drive and RC control | Arduino, BTS7960, FlySky two channel controle |
-| 08 | **AIOT plant system 2** |  communication viva mqtt,iot,aiot,esp32|
-| 09 | **Main-portfolio** |  its me ,dont copy |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/yashprofile.2">Yashprofile.2</a></b></td>
+    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/cv-flower">Cv Flower</a></b></td>
+    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/main-portfolio">Main Portfolio</a></b></td>
+    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/BLUTHOOTHfiletransfer-viva-Cprogram">Bluthoothfiletransfer Viva Cprogram</a></b></td>
+    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/AIOT-plant-detection-">Aiot Plant Detection </a></b></td>
+    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/LED-blink-ESP32-">Led Blink Esp32 </a></b></td>
+    <td></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/RoboSOCCER-VERSION1">Robosoccer Version1</a></b></td>
+    <td>MAKE a robo soccer using ARDUINO UNO ,FLYsky </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/led-blink-arduino">Led Blink Arduino</a></b></td>
+    <td></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/Robo-soccer-Version-2">Robo Soccer Version 2</a></b></td>
+    <td>using Arduino uno and flysky fs-i6 channel 2 and 4 </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/ROBO-SUMO-version-1">Robo Sumo Version 1</a></b></td>
+    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/RC-car-version1">Rc Car Version1</a></b></td>
+    <td>using fleshy and arduino uno</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/IoT-Based-Intelligent-Godown-Automation-and-Safety-System">Iot Based Intelligent Godown Automation And Safety System</a></b></td>
+    <td>The Smart Godown for Cotton Storage using IoT is an intelligent warehouse monitoring and control system designed to improve safety, energy efficiency, and real-time supervision of cotton storage godowns.</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/Smart-Home-Automation-System-using-ESP8266">Smart Home Automation System Using Esp8266</a></b></td>
+    <td>Smart Home Automation System using ESP8266 is an IoT project that monitors temperature, humidity, fire, and motion in real time. It features a web dashboard, LCD display, buzzer alert, and sensor-based automation, demonstrating practical embedded and IoT concepts.</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+</table>
+
 <!-- PROJECTS:END -->
 ---
 
