@@ -78,9 +78,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=ffffff&color=0047AB&line=FF6600&point=0047AB&area=true&hide_border=false&border_color=0047AB" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&bg_color=0d0d0d&color=00FFFF&line=FF6600&point=ffffff&area=true&hide_border=false&border_color=00FFFF" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>

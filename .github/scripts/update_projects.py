@@ -2,9 +2,12 @@ import urllib.request
 import urllib.parse
 import json
 import re
+import os
 
 USERNAME = "yashwanthR1207"
 EXCLUDE_FORKS = True
+
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 
 ICON_MAP = {
     "c++": "cpp",
@@ -29,59 +32,87 @@ ICON_MAP = {
     "ros": "ros"
 }
 
-def get_repos():
-    url = f"https://api.github.com/users/{USERNAME}/repos?type=public&sort=updated&per_page=100"
+def make_request(url):
     req = urllib.request.Request(url)
     req.add_header("Accept", "application/vnd.github.v3+json")
-    
-    with urllib.request.urlopen(req) as response:
-        repos = json.loads(response.read().decode())
+    if GITHUB_TOKEN:
+        req.add_header("Authorization", f"token {GITHUB_TOKEN}")
+    try:
+        with urllib.request.urlopen(req) as response:
+            return json.loads(response.read().decode())
+    except Exception as e:
+        print(f"Error fetching {url}: {e}")
+        return None
+
+def get_repos():
+    url = f"https://api.github.com/users/{USERNAME}/repos?type=public&sort=updated&per_page=100"
+    repos = make_request(url)
+    if not repos:
+        return []
         
     if EXCLUDE_FORKS:
         repos = [repo for repo in repos if not repo.get("fork")]
         
     return repos
 
-def extract_stack_html(repo):
-    icons = set()
-    badges = []
-    
-    # 1. Check primary language
-    lang = repo.get("language")
-    if lang:
-        lang_lower = lang.lower()
-        if lang_lower in ICON_MAP:
-            icons.add(ICON_MAP[lang_lower])
-        elif lang_lower in ["html", "css", "java", "ruby", "rust", "go", "swift", "kotlin", "dart", "bash", "c", "cpp"]:
-            icons.add(lang_lower)
-        else:
-            badges.append(lang)
+def get_languages(repo_name):
+    url = f"https://api.github.com/repos/{USERNAME}/{repo_name}/languages"
+    return make_request(url) or {}
 
-    # 2. Check topics
+def extract_stack_html(repo):
+    html_parts = []
+    
+    # 1. Get languages and calculate percentages
+    langs = get_languages(repo["name"])
+    total_bytes = sum(langs.values())
+    
+    # Process languages
+    if total_bytes > 0:
+        for lang, count in langs.items():
+            lang_lower = lang.lower()
+            icon = None
+            if lang_lower in ICON_MAP:
+                icon = ICON_MAP[lang_lower]
+            elif lang_lower in ["html", "css", "java", "ruby", "rust", "go", "swift", "kotlin", "dart", "bash", "c", "cpp"]:
+                icon = lang_lower
+                
+            percentage = (count / total_bytes) * 100
+            # Only show languages > 1% to avoid clutter
+            if percentage >= 1.0:
+                pct_str = f"{percentage:.1f}%"
+                
+                if icon:
+                    html_parts.append(f'<img src="https://skillicons.dev/icons?i={icon}&theme=dark" height="25" align="center" /> <sub>{pct_str}</sub>')
+                else:
+                    # Fallback text for language
+                    html_parts.append(f'<b>{lang}:</b> <sub>{pct_str}</sub>')
+
+    # 2. Check topics (no percentages for topics, just badges or icons)
     topics = repo.get("topics", [])
+    topic_icons = set()
+    topic_badges = []
     for topic in topics:
         topic_lower = topic.lower()
         if topic_lower in ICON_MAP:
-            icons.add(ICON_MAP[topic_lower])
+            topic_icons.add(ICON_MAP[topic_lower])
         elif topic_lower in ["arduino", "raspberrypi", "linux", "docker", "ros", "react", "vue", "nodejs", "mongodb"]:
-            icons.add(topic_lower)
+            topic_icons.add(topic_lower)
         else:
-            badges.append(topic)
+            topic_badges.append(topic)
             
-    html_parts = []
-    if icons:
-        icon_str = ",".join(list(icons))
-        html_parts.append(f'<img src="https://skillicons.dev/icons?i={icon_str}&theme=dark" height="30" valign="middle" />')
+    if topic_icons:
+        icon_str = ",".join(list(topic_icons))
+        html_parts.append(f'<img src="https://skillicons.dev/icons?i={icon_str}&theme=dark" height="25" align="center" />')
         
-    for badge in badges[:3]: # limit to max 3 extra badges so it doesn't get too long
+    for badge in topic_badges[:3]:
         badge_name = badge.replace("-", " ").upper()
         badge_url_name = urllib.parse.quote(badge_name)
-        html_parts.append(f'<img src="https://img.shields.io/badge/{badge_url_name}-0D0D0D?style=flat-square&color=FF6600" height="28" valign="middle" />')
+        html_parts.append(f'<img src="https://img.shields.io/badge/{badge_url_name}-0D0D0D?style=flat-square&color=FF6600" height="23" align="center" />')
         
     if not html_parts:
         return "N/A"
         
-    return "&nbsp;".join(html_parts)
+    return "&nbsp;&nbsp;".join(html_parts)
 
 def generate_markdown(repos):
     markdown = "<table>\n"
@@ -98,7 +129,7 @@ def generate_markdown(repos):
         
         markdown += "  <tr>\n"
         markdown += f'    <td><b><a href="{url}">{name}</a></b></td>\n'
-        markdown += f'    <td align="center">{stack_html}</td>\n'
+        markdown += f'    <td>{stack_html}</td>\n'
         markdown += "  </tr>\n"
         
     markdown += "</table>\n"
@@ -121,7 +152,6 @@ def update_readme(markdown):
 
 if __name__ == "__main__":
     repos = get_repos()
-    # Exclude the profile repo itself
     repos = [repo for repo in repos if repo["name"].lower() != USERNAME.lower()]
     markdown = generate_markdown(repos)
     update_readme(markdown)
