@@ -78,9 +78,9 @@ My mission is simple — bridge the gap between hardware and software through di
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-card.vercel.app/api?username=yashwanthR1207&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-card.vercel.app/api?username=yashwanthR1207" />
-  <img width="100%" alt="GitHub Contribution Graph" src="https://github-contribution-card.vercel.app/api?username=yashwanthR1207&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&theme=react-dark&v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&theme=react&v=1" />
+  <img width="100%" alt="GitHub Contribution Graph Roadmap" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthR1207&theme=react-dark&v=1" />
 </picture>
 
 </div>
