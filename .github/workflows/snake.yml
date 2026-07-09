@@ -31,6 +31,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      - name: Modify SVG to replace snake with car
+        run: |
+          python -c '
+          import re, os
+          def replace_snake_with_car(filename):
+              if not os.path.exists(filename): return
+              with open(filename, "r") as f: content = f.read()
+              content = re.sub(r"<rect class=\"s s0\"[^>]*>", "<text class=\"s s0\" x=\"-4\" y=\"13\" font-size=\"14\">🚗</text>", content)
+              content = re.sub(r"<rect class=\"s s[1-9][0-9]*\"[^>]*>", "", content)
+              with open(filename, "w") as f: f.write(content)
+          replace_snake_with_car("dist/github-contribution-grid-snake.svg")
+          replace_snake_with_car("dist/github-contribution-grid-snake-dark.svg")
+          '
+          
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
