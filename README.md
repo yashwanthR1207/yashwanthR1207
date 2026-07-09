@@ -130,6 +130,10 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/IOTautomations">Iotautomations</a></b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="30" valign="middle" /></td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/yashwanthR1207/yashprofile.2">Yashprofile.2</a></b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="30" valign="middle" /></td>
   </tr>
