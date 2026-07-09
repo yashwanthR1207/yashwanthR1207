@@ -88,6 +88,22 @@ My mission is simple — bridge the gap between hardware and software through di
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=CONTRIBUTION+SNAKE" alt="Contribution Snake" />
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yashwanthR1207/yashwanthR1207/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TECHNOLOGY+STACK" alt="Technology Stack" />
 </div>
 
