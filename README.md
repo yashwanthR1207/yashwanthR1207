@@ -147,59 +147,59 @@ My mission is simple — bridge the gap between hardware and software through di
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/IOTautomations">Iotautomations</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>83.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>13.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>3.4%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/yashprofile.2">Yashprofile.2</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>94.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>4.4%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/cv-flower">Cv Flower</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>67.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>21.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>11.7%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/main-portfolio">Main Portfolio</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>52.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>26.5%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>21.4%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/BLUTHOOTHfiletransfer-viva-Cprogram">Bluthoothfiletransfer Viva Cprogram</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/AIOT-plant-detection-">Aiot Plant Detection </a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>47.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>27.3%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>19.4%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>6.3%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/LED-blink-ESP32-">Led Blink Esp32 </a></b></td>
-    <td align="center">N/A</td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/RoboSOCCER-VERSION1">Robosoccer Version1</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/led-blink-arduino">Led Blink Arduino</a></b></td>
-    <td align="center">N/A</td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/Robo-soccer-Version-2">Robo Soccer Version 2</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/ROBO-SUMO-version-1">Robo Sumo Version 1</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/RC-car-version1">Rc Car Version1</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/IoT-Based-Intelligent-Godown-Automation-and-Safety-System">Iot Based Intelligent Godown Automation And Safety System</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/Smart-Home-Automation-System-using-ESP8266">Smart Home Automation System Using Esp8266</a></b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" valign="middle" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
 </table>
 
