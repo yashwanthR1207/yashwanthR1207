@@ -146,12 +146,12 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/IOTautomations">Iotautomations</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>83.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>13.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>3.4%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/yashprofile.2">Yashprofile.2</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>90.4%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>8.8%</sub></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/yashprofile.2">Yashprofile.2</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>94.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>4.4%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/IOTautomations">Iotautomations</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>83.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>13.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>3.4%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/cv-flower">Cv Flower</a></b></td>
