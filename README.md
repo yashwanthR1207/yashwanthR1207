@@ -147,7 +147,7 @@ My mission is simple — bridge the gap between hardware and software through di
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/yashprofile.2">Yashprofile.2</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>91.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.9%</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>92.3%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.2%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/IOTautomations">Iotautomations</a></b></td>
