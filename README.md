@@ -146,12 +146,12 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/AIOT-plant-detection-">Aiot Plant Detection </a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>47.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>27.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>19.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>5.6%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/yashwanthportfolio">Yashwanthportfolio</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>92.3%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.2%</sub></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/yashprofile.2">Yashprofile.2</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>92.3%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.2%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/AIOT-plant-detection-">Aiot Plant Detection </a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>47.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>27.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>19.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>5.6%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/IOTautomations">Iotautomations</a></b></td>
