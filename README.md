@@ -146,6 +146,10 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/Inventory-Management-System">Inventory Management System</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>69.8%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>14.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>9.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.0%</sub></td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/yashwanthR1207/yashwanthportfolio">Yashwanthportfolio</a></b></td>
     <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>92.3%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.2%</sub></td>
   </tr>
