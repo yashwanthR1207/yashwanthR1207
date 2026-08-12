@@ -147,7 +147,11 @@ My mission is simple — bridge the gap between hardware and software through di
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/Inventory-Management-System">Inventory Management System</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>69.8%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>14.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>9.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.0%</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>73.9%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>12.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>8.5%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>5.4%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/ESP-32-DHT11-test-code-">Esp 32 Dht11 Test Code </a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/yashwanthportfolio">Yashwanthportfolio</a></b></td>
