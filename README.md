@@ -146,12 +146,12 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/Inventory-QR">Inventory Qr</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>59.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>35.0%</sub>&nbsp;&nbsp;<b>PLpgSQL:</b> <sub>5.1%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>63.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>26.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>9.6%</sub></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>63.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>27.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>9.7%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/Inventory-QR">Inventory Qr</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>59.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>35.0%</sub>&nbsp;&nbsp;<b>PLpgSQL:</b> <sub>5.1%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/yashwanthportfolio">Yashwanthportfolio</a></b></td>
