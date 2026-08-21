@@ -146,12 +146,12 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/ESP-32-Ultrasonic-test-code">Esp 32 Ultrasonic Test Code</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>64.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>21.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>14.8%</sub></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>63.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>26.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>9.6%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/ESP-32-Ultrasonic-test-code">Esp 32 Ultrasonic Test Code</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/Inventory-QR">Inventory Qr</a></b></td>
