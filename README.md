@@ -146,6 +146,18 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/179ReadMe">179Readme</a></b></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/edgeiq">Edgeiq</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>90.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>8.7%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/EDGE.IQ">Edge.Iq</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>92.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.4%</sub></td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
     <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>64.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>21.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>14.8%</sub></td>
   </tr>
