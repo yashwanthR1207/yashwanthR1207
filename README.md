@@ -146,12 +146,12 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/179ReadMe">179Readme</a></b></td>
-    <td>N/A</td>
+    <td><b><a href="https://github.com/yashwanthR1207/edgeiq">Edgeiq</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>68.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>27.5%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" height="25" align="center" /> <sub>2.4%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>1.5%</sub></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/edgeiq">Edgeiq</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>90.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>8.7%</sub></td>
+    <td><b><a href="https://github.com/yashwanthR1207/179ReadMe">179Readme</a></b></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/EDGE.IQ">Edge.Iq</a></b></td>
