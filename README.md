@@ -146,6 +146,10 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>51.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>22.4%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>16.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" height="25" align="center" /> <sub>10.1%</sub></td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/yashwanthR1207/edgeiq">Edgeiq</a></b></td>
     <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>68.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>27.5%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" height="25" align="center" /> <sub>2.4%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>1.5%</sub></td>
   </tr>
@@ -156,10 +160,6 @@ My mission is simple — bridge the gap between hardware and software through di
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/EDGE.IQ">Edge.Iq</a></b></td>
     <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="25" align="center" /> <sub>92.1%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>7.4%</sub></td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>64.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>21.2%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>14.8%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/ESP-32-Ultrasonic-test-code">Esp 32 Ultrasonic Test Code</a></b></td>
