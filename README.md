@@ -146,6 +146,26 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/IEEE-project-espnow">Ieee Project Espnow</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>46.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>40.5%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>12.6%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/hazard-node-to-base-node-sensordata">Hazard Node To Base Node Sensordata</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/gridmesh-web">Gridmesh Web</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>33.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>28.9%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" height="25" align="center" /> <sub>28.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>9.4%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/base-node-relay-communication-ESPnow">Base Node Relay Communication Espnow</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/ESP-32-to-NODE-MCU-communication">Esp 32 To Node Mcu Communication</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/yashwanthR1207/Gridmesh">Gridmesh</a></b></td>
     <td>N/A</td>
   </tr>
