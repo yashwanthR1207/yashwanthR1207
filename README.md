@@ -146,6 +146,10 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>50.9%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>22.7%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>16.4%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" height="25" align="center" /> <sub>10.0%</sub></td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/yashwanthR1207/ESP-to_ESP_communication-via-esp-now">Esp To_Esp_Communication Via Esp Now</a></b></td>
     <td>N/A</td>
   </tr>
@@ -172,10 +176,6 @@ My mission is simple — bridge the gap between hardware and software through di
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/Gridmesh">Gridmesh</a></b></td>
     <td>N/A</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/yashwanthR1207/yashwanthR.info">Yashwanthr.Info</a></b></td>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" align="center" /> <sub>51.0%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" align="center" /> <sub>22.4%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>16.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" height="25" align="center" /> <sub>10.1%</sub></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/yashwanthR1207/edgeiq">Edgeiq</a></b></td>
