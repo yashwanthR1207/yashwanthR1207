@@ -146,6 +146,18 @@ My mission is simple — bridge the gap between hardware and software through di
     <th>Tech Stack</th>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/MRIT-backend">Mrit Backend</a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" align="center" /> <sub>76.6%</sub>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>23.4%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/esp-32-sensors-and-oled-test-code-">Esp 32 Sensors And Oled Test Code </a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yashwanthR1207/water-level-sensor-test-code-">Water Level Sensor Test Code </a></b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" align="center" /> <sub>100.0%</sub></td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/yashwanthR1207/ESP-to_ESP_communication-via-esp-now">Esp To_Esp_Communication Via Esp Now</a></b></td>
     <td>N/A</td>
   </tr>
